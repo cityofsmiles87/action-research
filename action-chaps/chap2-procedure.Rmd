@@ -1,0 +1,33 @@
+This section describes in  great detail the data-collection procedures. Describe how participants were recruited, whether they participated alone or in groups, how informed consent or assent was obtained, what they were asked to do, how they were compensated for their participation, etc. You should describe the procedure in a way  that another researcher could conduct the same  study (i.e.,  replicate it) just by reading about the procedure. 
+
+
+The experiment  is laid  out  step by  step,  with  time transitions like  “then” and  “next.”
+
+Include all  of the details about what participants  will experience in your experiment.  You should include enough detail that someone  could conduct your experiment using your paper as a guide. The order of this section should be  the order of activities  that participants will experience.  You should use future tense throughout  this section. What will  be the setting of the experiment (where will it take place)? What questionnaires will participants complete? Include sample items (make them up if necessary). What  instructions  will you give  participants?  Include a short script if the wording is important to  your procedure. If you are  using questionnaires or 
+
+
+
+After acquiring the necessary permits and determining the two sections that will serve as the respondents of this study, the researcher will teach both the control group and the experimental group using direct instruction while incorporating "Math Hugot"  in teaching the experimental group. The pretest results will be used to determine the two sections.
+
+
+ During the intervention period, the researcher will present  a "Math Hugot" before giving the seatwork for each lesson. The presentation involves 
+ 
+   a. reading aloud the "Math Hugot" posted on the board, 
+   b. asking the students to identify the Mathematics concept and the human experience being compared, and
+   c. prompting the learners to determine other  Mathematics concepts discussed in the lesson which they may use to create their own "Math Hugot". 
+
+After answering the seatwork, the students will be asked to make  their own "Math Hugot" in a 1/4 sheet of paper  which will be submitted the following school day. The researcher will then collect the papers and rate each "Math Hugot" using a rubric. The scores will be recorded  as  points for recitation. 
+
+
+ At the end of the intervention period, the post-test will be given to both groups and the scores will be tallied for data analysis. 
+ 
+ The study was carried out in following stages.Stage - I: Grouping the SampleAt this stage, the learners were tested on intelligence, and the quarterly marks in mathematics.  On the basis of that, the students were divided into two groups such as control group and experiment group.  The scores in the mentioned tests proved the homogeneity of the sample groups.  Stage - II: Conducting Pre-testAt this stage, both the control and the experimental groups underwent pre-test with the tool Attitude towards mathematics.Stage - III: Conducting the TreatmentAt this stage, both the control and the experimental groups were given the treatments.  The experimental treatment, i.e. teaching with the interactive multimedia learning package (developed by the investigator) was given to the experimental group and the conventional teaching method was given to the control group.
+ 
+Stage - IV: Conducting Post-test and Retention TestAt this stage, both the control and the experimental groups underwent post-test and hence, learners were tested on attitude towards mathematics in the specified content when the treatment period was over.  Stage - V: The Results of the TreatmentThe effectiveness of the multimedia learning package was found out by the post-test scores.
+
+### Data Analysis Plan
+```{r child = '/R-Markdown/thesis/action-chaps/chap2-stat.Rmd'}
+```
+
+
+

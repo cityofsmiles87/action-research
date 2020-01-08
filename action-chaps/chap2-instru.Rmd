@@ -1,0 +1,24 @@
+```{r pilot-alpha, include=FALSE}
+source("/R-Markdown/thesis/action-chaps/pilot-alpha.R") 
+```
+ 
+This section describes the tests or instruments used to collect data. Do you plan to use a standardized instrument or design your own? How does this instrument affect issues of reliability and validity (discuss)?  Discuss instrument biases. Identify independent and dependent variables. Discuss how this instrument will be scored.   
+
+In order to measure the students' attitudes, this study will utilize  the Attitudes toward Mathematics Inventory (ATMI) by tap00. This instrument obtained a reliability coefficient Cronbach $\alpha$ of 0.95 which indicates a high degree of reliability. It was originally  designed to measure the attitudes of a sample of middle school students  toward Mathematics, therefore, it is the most appropriate instrument to be used in this research. The ATMI consists of 40 statements to which the learner  responds based on a 5-point Likert  scale ranging  from A (*strongly disagree*) to E (*strongly agree*). 
+
+
+
+The ATMI is divided into four subscales : Self-confidence, Value, Enjoyment, and Motivation. The sum of the subscales gives the total score of a student's attitudes towards Mathematics. The lowest possible score  is 40 points while the highest possible score is 200 points. The higher the score obtained by the respondents, the more positive attitudes they   exhibit  towards Mathematics. Since the ATMI was originally developed using a sample of students from a Mexican school, a reliability test will be conducted using a small sample of students in Sauyo High School so as to determine whether  the 
+instrument can be used in  Philippine context. A copy of the Attitudes toward Mathematics Inventory is included in Appendix A on page app:atmi. 
+
+
+
+`r pilot_alpha`
+
+In order to measure the students' attitudes, this study will utilize  the Attitudes toward Mathematics Inventory (ATMI) by [@tap00]. This instrument obtained a reliability coefficient Cronbach $\alpha$ of 0.95 which indicates a high degree of reliability. It was originally  designed to measure the attitudes of a sample of middle school students  toward Mathematics, therefore, it is the most appropriate instrument to be used in this research. The ATMI consists of 40 statements to which the learner  responds based on 5-point scales (A =  *strongly disagree* and E = *strongly agree*). 
+
+The ATMI is divided into four subscales : Self-confidence, Value, Enjoyment, and Motivation. The sum of the subscales gives the total score of a student's attitudes towards Mathematics. The lowest possible score  is 40 points while the highest possible score is 200 points. The higher the score obtained by the respondents, the more positive attitudes they   exhibit  towards Mathematics. Since the ATMI was originally developed using a sample of students from a Mexican school, a reliability test will be conducted using a small sample of students in Sauyo High School so as to determine whether  the 
+instrument can be used in  Philippine context. A copy of the Attitudes toward Mathematics Inventory is included in Appendix\  \@ref(fig:atmi)
+
+ 
+ 

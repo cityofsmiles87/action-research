@@ -1,0 +1,117 @@
+The following interventions were applied in order to improve the students' attitudes toward Mathematics: 
+
+### interactive multimedia learning package  
+Conclusion: teaching through the interactive multimedia learning package develops students' attitude towards mathematics. [@mut16] 
+Problem: The present study has been designed to investigate the effectiveness of an interactive multimedia learning package in developing attitude towards Mathematics. 
+Participants: 42 High School Students
+Method: Experimental method, pre-test and post-test equivalent group design
+Notes/comments: very similar to this study 
+Weakness/recommendation: 
+
+Conclusion: utilization  of  GeoGebra  in  discovery  learning  can  lead  to  solving  problems  and  attitudes towards  mathematics  are  better [@mur17] 
+Problem: to  describe  the  effet  of  GeoGebra  utilization  in  the  discovery learning  model  on  mathematical  problem  solving  ability  and  students’  attitude  toward mathematics
+Participants: 181  of  students, class  VIII  junior  high  school  of  which  there  are  181 NTT-Indonesia  students  come  from  6  classes
+Method: quasi  experimental  and  post-test  only  control  group  design,   one  way  MANOVA
+Notes/comments: 
+Weakness/recommendation: 
+
+### Quantum Learning and Project Based Learning
+Conclusion: Quantum Learning was effectively viewed from student’s reasoning ability, achievement, and attitude toward mathematics; (2) Project Based Learning was effectively viewed from student’s reasoning ability, achievement, and attitude toward mathematics; and (3) there was no difference in effectiveness between Quantum Learning and Project Based Learning viewed from student’s reasoning ability, achievement, and attitude toward mathematics. [@mek18] 
+Problem: to test the effectiveness of Quantum Learning and also Project Based Learning viewed from three aspects namely student’s reasoning ability, achievement, and attitude toward mathematics. 
+Participants: 60 students of class VII of SMPK Giovanni Kupang, a Junior High School in Indonesia.
+Method: quasi-experimental research, One sample t-test, multivariate test (Manova) with T2 Hotteling’s test 
+Notes/comments: 
+Weakness/recommendation: 
+
+### embedded study-skills instruction
+Conclusion: no significant differences in students’ attitudes toward mathematics, while qualitative findings  supported the use  of the  intervention to develop students’ positive  attitudes in mathematics [@ban15]
+Problem: examine  the effect  of embedded study-skills instruction on students’ attitudes toward mathematics
+Participants: 28  Grade  9 and 10 students who  repeated Algebra  I
+Method: sequential, explanatory  mixed-methods study, independent samples  t  tests  
+Notes/comments: weird results, contradictory u
+Weakness/recommendation: 
+
+### treffinger learning using dakon game
+Conclusion: students’ attitudes toward mathematics increased by 69% through treffinger learning using dakon game  [@uly17] 
+Problem: determine the quality of student attitudes improvement toward mathematics through the application of treffinger learning using dakon game on multiplication materials. 
+Participants: grade 2 students of SD 1 Bae Kudus on multiplication material. 
+Method: non-test technique
+Notes/comments: 
+Weakness/recommendation: 
+
+### reform curriculum 
+Conclusion: high-school seniors who had been taught using the reform curriculum in middle school harbored attitudes toward mathematics that differed significantly from the attitudes of those who had been taught using a traditional curriculum in middle school. Significantly greater percentages of reform students than traditional students had a relational Vision of mathematics as opposed to an instrumental Vision; however, there was no significant difference between the proportions of reform and traditional students who had a positive Emotional Disposition toward mathematics or a positive Perceived Competence in mathematics.[@moy18] 
+Problem: presents findings from a larger research project that provides insight into the attitudes of high-school students who were taught using different types of mathematics curricula when they were in middle school. 
+Participants: A total of 44 12th-grade students from 10 high schools in the same urban school district were interviewed. Eighteen (41%) of them had been taught using a reform curriculum in middle school and 26 (59%) had been taught using a more traditional curriculum.
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### professional development 
+Conclusion: strong and impressive growths in students' attitudes toward mathematics, which are statistically significant. Furthermore, their attitudes toward mathematics are also related to interactions in a mathematics classroom.  [@kim17] 
+Problem: As a part of a large project aimed to develop and enact professional development for equity and examine its effects and, finally, to propose the direction of professional development to help students cognitively and affectively balanced grow in mathematics, the current study briefly introduces how such professional development was designed and implemented. 
+Participants: The data collected in all students in school whose three mathematics teachers had participated in the professional development for two years.
+Method: statistical analysis of students' responses for the three different surveys, which are parts of the National Assessment of Educational Achievement study, TIMSS Advanced, and the survey about classroom interaction
+Notes/comments: 
+Weakness/recommendation: 
+
+### Realistic  Mathematics  Approach
+Conclusion: significant  differences  between  the  Realistic  Mathematics  Approach  and  the  traditional  approach  in  terms of  achievement.  The  study  showed  no  significant  difference  between  the  Realistic  Mathematics  Approach and  the  traditional  approach  in  term  of  attitudes  towards  mathematics. [@zak17] 
+Problem: determine  the  effect  of  Realistic  Mathematics  Education  Approach  on mathematics  achievement  and  student  attitudes  towards  mathematics., also  sought  determine  the relationship  between  student  achievement  and  attitudes  towards  mathematics
+Participants: 61  high  school  students  at  SMA  Unggul  Sigli
+Method: quasiexperimental  design, conducted  for  six  weeks, one-way  ANOVA
+Notes/comments: 6 weeks intervention 
+Weakness/recommendation: 
+
+### outreach
+Conclusion: statistically significant improvements in almost all components of mathematical attitudes, with less of an effect on the component of self-confidence in doing mathematics [@wil19] 
+Problem: investigated the impacts of this sort of outreach work on high school students’ attitudes towards mathematics using a mathematics attitudes survey
+Participants:  306 
+Method: college students gave dynamic mathematics outreach presentations, MathShows, to minority and low-income high school students in a mid-sized public school district on the U.S. border with Mexico. 
+Notes/comments: 
+Weakness/recommendation: 
+
+### computer-assisted instruction (CAI) 
+Conclusion: CAI  significantly  improved  students’ mathematics  achievement  compared  to  the  results  achieved  through  traditional instruction.  However,  it was found that  short-term CAI implementation did not make a significant difference on students’  attitudes  toward  mathematics. [@bir15] 
+Problem: investigate  the  effect  of  computer-assisted instruction (CAI) regarding concepts of "surface area and volume of  vertical circular  cylinder"  on seventh grade students'  achievement and attitudes toward mathematics
+Participants: 49  seventh  grade  Turkish students (24 students in the experimental group,  and 25 students in the control group)
+Method: pre-test and post-test control group with quasi-experimental study, MANCOVA
+Notes/comments: 
+Weakness/recommendation: 
+
+### HOTS based Problem Posing learning model
+Conclusion: HOTS-based problem posing model is effective for improving the students ‘attitudes toward mathematics [@ros19] 
+Problem: to determine the effectiveness of HOTS-based Problem Posing model in facilitating the attitude toward mathematics compared to conventional teaching
+Participants:  124 students of the 7th grade from two different schools
+Method: Two-Ways ANoVA
+Notes/comments: data analysis can be followed 
+Weakness/recommendation: 
+
+### Numbered Heads Together (NHT) cooperative learning method 
+Conclusion: students' attitudes toward mathematics increased. The final results of the questionnaire on students' attitudes toward mathematics showed a good category (77.78%) with an average score of 110.44 [@pam19] 
+Problem: improve students’ attitudes towards learning mathematics by applying the Numbered Heads Together (NHT) cooperative learning method with a scientific approach. 
+Participants: class VIII A one of junior high school in Depok, Sleman, Yogyakarta which consists of 21 male and 15 female student
+Method: Classroom Action Research (CAR) which was conducted collaboratively 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 

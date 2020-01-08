@@ -1,0 +1,26 @@
+Introduce the general methodology most authors have taken on this  topic and the one you will be  using  and why (tie to the literature review).  The purpose is a statement of what you intend  to study not what you intend to find. 
+
+It is a good idea to highlight  the way in which your experiment will extend past  research; for example, you could include a one sentence statement claiming that  past research has focused on blank, but left out blank. The first paragraph or two of this section should include your  hypotheses and your reasoning (theory). The next paragraphs should present information about your research method. 
+
+## Participants
+```{r child = '/R-Markdown/thesis/action-chaps/chap2-respo.Rmd'}
+```
+
+## Research Design
+```{r child = '/R-Markdown/thesis/action-chaps/chap2-design.Rmd'}
+```
+
+## Instrumentation
+```{r child = '/R-Markdown/thesis/action-chaps/chap2-instru.Rmd'}
+```
+
+## Procedure
+```{r child = '/R-Markdown/thesis/action-chaps/chap2-procedure.Rmd'}
+```
+
+## Limitations
+```{r child = '/R-Markdown/thesis/action-chaps/chap2-limitations.Rmd'}
+```
+
+
+

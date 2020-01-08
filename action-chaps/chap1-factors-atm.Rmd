@@ -1,0 +1,176 @@
+The following factors have an impact on attitudes toward Mathematics: 
+
+### gender 
+Conclusion: there was a significant main effect of gender on mean attitude scores. males’ average attitude score was significantly less than females’ average attitude scores.  school type did not have signifi-cant main effect on mean self-efficacy scores, anxiety scores, and achieve-ment scores but have significant effect on attitude scores. the attitude scores of private school stu-dents were significantly higher than the mean attitude scores of public school students. [@rec18] 
+Problem: The purpose of this study was to investigate the relationship among seventh grade students’ mathematics self-efficacy, mathematics anx-iety, attitudes towards mathematics, mathematics achievement, gender and school type.
+Participants: 934 seventh grade students with an average age of 12 from 13 elementary schools, seven public and six private, in Ankara, Turkey
+Method: two-way ANO-VAs, multiple regression analysis,  Two associational research types, causal-comparative and correlational research designs 
+Notes/comments: good pattern for results reporting 
+Weakness/recommendation: done in elementary, respondents sampled convenience
+
+Conclusion: there was  a statistical significant  difference for gender in both constructs of the questionnaire, with female  students scoring higher than  male students in both constructs (enjoyment of mathematics and mathematical self-perceptions [@afa18] 
+Problem: examined  the effect  of  gender on students’ attitudes towards Mathematics.
+Participants: 1039 elementary  students from a Gulf  state
+Method: structural  equation modelling,  confirmatory  factor analysis (CFA), multigroup CFA and  multiple indicators, multiple causes (MIMIC) modelling
+Notes/comments: elementary 
+Weakness/recommendation: 
+
+Conclusion: students have a positive attitude toward mathematics. There is no significant difference between male and female students in terms of their attitude toward mathematics  [@kar17] 
+Problem: investigates the attitude toward mathematics among the students enrolled in the Foundation Year Programme at Nazarbayev University
+Participants: 108. There are 55 males, 53 females, 73 Mathematical-Physics (MP), 22 Biology-Chemistry (BC) and 13 International Relations-Economics (IRE) students.
+Method: conducted quantitatively and an inventory developed by Tapia and Marsh II is adopted
+Notes/comments: college 
+Weakness/recommendation: 
+
+Conclusion: no significant gender differences in either achievement or attitudes toward mathematics, [@sar17] 
+Problem: investigate gender differences in students’ mathematics achievement and in their attitudes toward mathematics. 
+Participants:  692 students (353 girls, 339 boys) between the ages of 12 and 16 years, enrolled in grades 7–9 at four private schools in Lebanon.
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: Longitudinally, higher mathematical competence in sixth grade was associated with lower mathematics anxiety for evaluations and better mathematics attitudes in seventh grade for girls but not for boys. The key finding is that adolescent girls’ mathematics anxiety and their attitudes toward mathematics are more reflective of their actual mathematical competence than they are for boys.  [@gea19] 
+Problem: Sex differences in the strength of the relations between mathematics anxiety, mathematics attitudes, and mathematics achievement were assessed concurrently in sixth grade and longitudinally from sixth to seventh grade 
+Participants: sixth grade (n = 1,091, 545 boys) and sixth to seventh grade (n = 190, 97 boys)
+Method: 
+Notes/comments: One implication is that relative to boys with low mathematics achievement, girls with low achievement are at higher risk of developing mathematics anxiety and poor attitudes toward mathematics
+Weakness/recommendation: 
+
+Conclusion: As far as their genders are concerned, there are no differences between male and female students attitude toward mathematics.  [@sir19] 
+Problem: to analyze the students' attitude toward mathematics in terms of the different aspect of mathematics game preferences, grade levels, and genders.
+Participants:  107 students. They were taken from 2 elementary schools and were taken through proportional random sampling
+Method: used The Attitude Toward Mathematics Inventory (ATMI) 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### parental influences,  teacher  affective  support and  classroom  instruction
+Conclusion: Students’  attitude  towards  mathematics  is  affected by  factors  such  as  parental influences,  teacher  affective  support and  classroom  instruction. Teacher  affective  support and classroom  instruction  predict  attitude  towards  mathematics  more  than  parental influences.  [@dav18] 
+Problem: examine the inter-relationships  between these  factors  and  effects  on attitude  towards  mathematics
+Participants: 318  Form  Four  students from  Sabah,  Malaysia
+Method: partial least  squares-structural equation modeling approach
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: Higher prior mathematics achievement and positive parental beliefs and attitudes were significant predictors of higher scores across the 3 indicators. At the classroom level, classroom assessment was significantly associated with less endorsement of all 3 indicators, higher levels of classroom modeling with greater endorsement of perceived usefulness of mathematics, and classroom questioning with greater enjoyment of mathematics. [@kiw17] 
+Problem: investigated the effects of student and classroom characteristics on math self-confidence, perceived usefulness, and enjoyment of mathematics as multiple outcomes.
+Participants: 7th-grade students from 78 classes of 49 schools 
+Method: multivariate multilevel analysis 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: statistically significant positive  correlations  between  parents' and  students' attitudes toward  mathematics.  Additionally,  parents'  mathematics attitude significantly predicted students' attitudes toward mathematics [@moh17] 
+Problem: investigate parents' attitudes toward mathematics, their students' attitude toward mathematics, and  the influence of  the  parents'  attitude on the  students' attitude toward  mathematics
+Participants: n=146
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: adolescents  who perceived that their parents liked  mathematics and considered mathematics was  important for their children not only  to study but  also  for  their  career tended to  report higher levels  of intrinsic and instrumental motivation to learn mathematics, mathematics  self-concept and self-efficacy, and mathematics  work ethic [@are15] 
+Problem: examined the relations of adolescent children's perceptions  of their parents' attitudes towards mathematics to their own attitudes  towards mathematics  and mathematics  achievement
+Participants: 5116 adolescents from 384 schools  in the  United Arab Emirates
+Method: cross-sectional study
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### Anxiety 
+Conclusion: elementary students had higher level of attitude towards mathematics in comparison to their mathematics anxiety level. Findings of the study revealed that mathematics attitudes were linked to their mathematics anxiety. Although the magnitude of the correlations between mathematics anxiety and attitude towards mathematics were not very strong, the significant relationship between these two components should be acknowledged. [@hac17] 
+Problem: examined the reciprocal relationship between anxiety and attitude towards mathematics in elementary students.
+Participants: 310 fourth grade elementary students.
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### motivational factors
+Conclusion: intrinsic, home environment and teacher factors have positive direct effects on the students' attitudes toward mathematics with intrinsic factor having the strongest and the most significant effect on students' attitudes toward mathematics. The findings also revealed that peer group factor and school environment factor have negative effects on students' attitudes toward mathematics [@oye17] 
+Problem: use path analysis to investigate the type of direct effects the motivational factors have on the students' attitudes toward mathematics.
+Participants: twelve senior secondary schools were randomly selected from the Edo State South Senatorial District. Thirty students were randomly selected from each of the schools and a total of three hundred and sixty students were used for the study. 
+Method: Pearson Moment correlation and Regression analysis 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: The students enrolled in regular school programs show higher self-efficacy perceptions and attitudes than those attending vocational programs. strong and positive correlation was found between students’ attitudes and self-efficacy perceptions towards mathematics. [@mum15] 
+Problem: determine the students’ attitudes and self-efficacy perceptions towards mathematics in terms of education programs, gender, grade level and mathematics performance, it also aims to see the relationship between attitudes and self-efficacy perceptions towards mathematics themselves.
+Participants:  212 students from different departments in a multi- program high school. 
+Method:  İndependent t-test, one way ANOVA and correlation, descriptive
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### game preferences and grade levels
+
+Conclusion: there are different students attitude toward mathematics based on their mathematics game preferences and their grade levels. [@sir19] 
+Problem: to improve students’ attitudes towards learning mathematics by applying the Numbered Heads Together (NHT) cooperative learning method with a scientific approach
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### extreme response style
+Conclusion: the extreme response style explains a significant amount of variances in the students’attitude toward mathematics. Additionally, students with a negative attitude toward mathematics were found to have an extreme response style. It was concluded that an extreme response style had an effect on students’ attitude [@dib19] 
+Problem: explore how the extreme response style affects students’ attitudes towardmathematics of students
+Participants: 15 countries were randomly selected among countries participated in TIMSS 2015
+Method: both basic research and descriptive research, analyzed with the packages "lme4" and "irtrees" in R software
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 

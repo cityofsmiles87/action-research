@@ -1,0 +1,13 @@
+In order to achieve the goals of this study, the following statistical measures and tests  will be computed using R version `r getRversion()` installed in an Android smartphone. The level of statistical significance is set at 5%. 
+
+We used `r my_citations` for all our analyses.
+
+In order to achieve the goals of this study, the following statistical measures and tests  will be computed using installed in an Android smartphone. The level of statistical significance is set at 5\%. 
+
+Statistics were done using R 3.5.0 (R Core Team, 2018), the rstanarm (v2.13.1; Gabry \& Goodrich, 2016) and the psycho (v0.3.4; Makowski, 2018) packages. The full reproducible code is available in Supplementary Materials.
+
+Then, in Supplementary Materials, you show the packages and functions you used. Moreover, in R, you can include (usually at the end) every used package and their version using the sessionInfo() function.
+
+
+
+What statistics do you plan to collect: descriptive/univariate statistics (frequency,  central tendency, etc.) Inferential statistics (Pearson’s r, ANOVA, etc.) Bivariate,  multivariate statistics, and how  do you plan to do your analysis? 

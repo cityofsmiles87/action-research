@@ -1,0 +1,8 @@
+This brief section describes the people  who participated in your study (they should be called “participants,” not “subjects”). Give as much information about the population that has been gathered from  your review  of the literature: age range, gender mix, education, etc.  This will be used to compare to your sample’s  demographics in the Results section.  
+
+You should include information about who the  participants will be in your experiment. How many participants will be in your study?  Summarize whether you want a certain  number of men or women, a certain number of  people from  different races, and so on.  How will participants be recruited for your study?  Summarize whether  you will place ads in the  newspaper, recruit in online chat-rooms, ask for volunteers in class, and  so on.  Will participants receive compensation for being in your study? 
+
+The participants of this research will include two sections from Grade 10 students  of Sauyo High School, S.Y. 2020-2021 with ages 15 to 17. 
+The population targeted in this study is the Grade 10 students  of Sauyo High School  with approximately 900   learners divided into 21  sections. Convenience sampling will be used to identify the participants.  The pretest will be  administered to all  Grade 10 students   handled by the researcher and the scores will be tallied per section. The One Factor Analysis of Variance (ANOVA) will be computed for all sections so as to determine two sections whose mean scores are not significantly different.  Then each of the two  sections will be randomly assigned as the control group and the experimental group. 
+
+

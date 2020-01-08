@@ -1,0 +1,107 @@
+---
+title: "Effects of ``Math Hugot'' on Attitudes Toward Mathematics among Grade 10 Students of Sauyo High School, S.Y. 2020 -- 2021"
+
+author: 
+  - name: "Jonathan R. Bacolod" 
+    corresponding : yes    # Define only one corresponding author
+    address: "Mathematics Department, Sauyo High School, NIA Village, Sauyo, Quezon City"
+    email: "jonathan_bacolod@yahoo.com"
+    
+authornote: |
+  Jonathan R. Bacolod is a Mathematics teacher in Sauyo High School, Quezon City. 
+
+  This research proposal is for approval by the Schools Division Office, Quezon City, Metro Manila. 
+
+abstract: |
+  One or two sentences providing a **basic introduction** to the field,  comprehensible to a scientist in any discipline.
+  
+  Two to three sentences of **more detailed background**, comprehensible  to scientists in related disciplines.
+  
+  One sentence clearly stating the **general problem** being addressed by  this particular study.
+  
+  One sentence summarizing the main result (with the words "**here we show**" or their equivalent).
+  
+  Two or three sentences explaining what the **main result** reveals in direct comparison to what was thought to be the case previously, or how the  main result adds to previous knowledge.
+  
+  One or two sentences to put the results into a more **general context**.
+  
+  Two or three sentences to provide a **broader perspective**, readily comprehensible to a scientist in any discipline.
+  
+keywords: "``Math Hugot'', attitudes toward Mathematics, high school, grade 10, attitudes, Mathematics"
+wordcount: "X"
+
+
+bibliography: ["./hugot-action-res.bib"]
+csl: "/R-Markdown/ref_format.csl"
+replace_ampersands: yes
+
+floatsintext: no
+figurelist: no
+tablelist: no
+footnotelist: no
+linenumbers: no
+mask: no
+draft: no
+
+documentclass: "apa6"
+classoption: "man, noextraspace"
+output:
+   papaja::apa6_pdf:
+      keep_tex: FALSE
+      includes:
+         in_header: thesis-preamble-papaja.tex
+appendix: "./chapters/appendix.Rmd"
+---
+
+```{r setup, include = FALSE}
+library("papaja")
+```
+
+```{r global_options, include=FALSE}
+## This saves you from having to do this for every chunk
+knitr::opts_chunk$set(fig.path = 'hugot_files/', echo = FALSE, warning = FALSE, message = FALSE)
+```
+ 
+```{r pagebreak, include=FALSE}
+# define pagebreak
+pagebreak <- function() {
+  if(knitr::is_latex_output())
+    return("\\newpage")
+  else
+    return('<div style="page-break-before: always;" />')}
+```
+ 
+
+```{r create_r-references}
+r_refs(file = "r-references.bib")
+my_citations <- cite_r(file = "r-references.bib", pkgs = c("ggplot2", "papaja", "rmarkdown"), withhold = TRUE)
+``` 
+
+```{r child = '/R-Markdown/thesis/action-chaps/chap1.Rmd'}
+```
+ 
+
+# Methods
+{r child = '/R-Markdown/thesis/action-chaps/chap2.Rmd'}
+
+biblio-style      : "apa"
+citation_package: biblatex
+"``Math Hugot'': An Intervention for Improving Attitudes toward Mathematics"
+shorttitle        : "Math Hugot: An Intervention for Improving ATM"
+
+# Results 
+
+# Discussion
+
+`r pagebreak`
+\newpage
+
+# References
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+<div id = "refs"></div>
+\endgroup
+

@@ -1,0 +1,12 @@
+Are you doing qualitative or quantitative research; is it exploratory, descriptive or explanatory?  Explain why  you are using this type of study and what  you plan to explore, describe, or explain (again  tie it to the literature review).   Do you plan to use interventions, interviews, behavior observation,  questionnaires, etc.?  What subtype of each do you plan to employ (e.g., structured vs. unstructured interviews or  closed vs. open-ended questions)?   State your rationale for your approach (lit. review).  List all  of your variables, which ones are independent or  dependent?   What level of  measurement do you plan to use for each variable?  
+
+In this section, you should include information about your independent variables: the levels of  each, whether they are between or within-participant, and whether participants will be randomly assigned to levels. If your experiment  has more than one independent variable, which is likely, then include a design statement (e.g.,  This will be  a 2 Time  of Day (morning vs. evening) x 2  Amount of Coffee (1 cup vs.  3 cups) between-participants design”). Will participants be randomly assigned to conditions?   This section will be very short! 
+
+
+This study is a quantitative, quasi-experimental research utilizing the two-group pretest-posttest design. The independent variable is the application of "Math Hugot" in teaching Mathematics which also serves as the intervention. The dependent variable is the attitudes toward  Mathematics  of the Grade 10 students of Sauyo High School.  By determining whether a significant difference exists in the pre-intervention and post-intervention scores of the participants in the Attitudes toward Mathematics Inventory (ATMI), the researcher will be able to establish the effectiveness of "Math Hugot"  on improving student attitudes toward  Mathematics.  
+
+
+
+
+
+
