@@ -99,7 +99,22 @@ Problem: examined the reciprocal relationship between anxiety and attitude towar
 Participants: 310 fourth grade elementary students.
 Method: 
 Notes/comments: 
+Weakness/recommendation:
+
+Conclusion: level  of attitudes  toward  mathematics  of  Grade  10  students  was  high, no  significant  relationship  of  attitudes  toward mathematics  and  mathematics  self-efficacy  with  mathematics  achievement [@jun19] 
+Problem: to  determine  the  level  of  attitudes  toward mathematics,  mathematics  self-efficacy,  mathematics  achievement and  the relationship  among  them
+Participants: 200  of  Grade  10  students  who enrolled  in  A  Len  Bum  IDPs  High  School  in  the  academic  year  2018-2019,   in  Kachin  State,  Myanmar
+Method: Attitudes toward  mathematics  questionnaire  (ATMQ)  and  sources  of  mathematics  self-efficacy scale  (SMSES)  
+Notes/comments: 
 Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+ 
 
 ### motivational factors
 Conclusion: intrinsic, home environment and teacher factors have positive direct effects on the students' attitudes toward mathematics with intrinsic factor having the strongest and the most significant effect on students' attitudes toward mathematics. The findings also revealed that peer group factor and school environment factor have negative effects on students' attitudes toward mathematics [@oye17] 
@@ -147,7 +162,8 @@ Method: both basic research and descriptive research, analyzed with the packages
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
+### Number Type
+Conclusion: children and adults have different attitudes about mathematics when asked specifically about whole numbers, as opposed to fractions. The vast majority of children and adults reported negative attitudes toward fractions despite having positive attitudes toward whole numbers. Across both children and adults, the difference in fraction and whole-number attitudes was present across levels of math achievement, indicating that it was not just participants who were worse at math whose attitudes differed by number type. [@sid19] 
 Problem: 
 Participants: 
 Method: 

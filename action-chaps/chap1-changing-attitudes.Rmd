@@ -95,17 +95,19 @@ Method: Classroom Action Research (CAR) which was conducted collaboratively
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
+### Flipped Classroom strategy
+Conclusion: significant positive change in the perceived value of mathematics in the four ATMI categories (P < 0.05) with different effect sizes after the implementation of the flipped classroom and active learning strategies. implementation of transformed courses using a Flipped Classroom method has a positive effect on students’ attitudes toward Mathematics, especially in those who come from families with lower economical income.[@tur19] 
+Problem: analyzes the impact of a Course Transformation process based on a Flipped Classroom strategy on Chilean Engineering students’ attitudes toward university-level mathematics
+Participants:  76 students in three mathematic courses at Universidad Católica de Temuco's Faculty of Engineering which adopted a flipped classroom method. 
+Method: Attitudes Toward Mathematics Inventory (ATMI)
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
+### Polya model
+Conclusion: using Polya model greatly affected in eighth basic class students achievements in mathematics balancing with the usual method and Polya model is better than the usual method in developing the trends towards mathematics[@sab19] 
+Problem: recognition (the effect of using Polya model on achievement and developing the trends towards mathematics for eighth basic class students).
+Participants: all eighth basic class students of Day school for (2017-2018) in the center of Erbil city, sample of the research included (60) students distributed randomly into two groups
+Method: experimental method with two equal groups with pre-test and post-test, Polya model has been used for teaching the experimental group  whereas the traditional method used for teaching the control group.
 Notes/comments: 
 Weakness/recommendation: 
 
