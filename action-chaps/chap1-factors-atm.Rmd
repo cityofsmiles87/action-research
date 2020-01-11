@@ -43,10 +43,10 @@ Method: used The Attitude Toward Mathematics Inventory (ATMI)
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
+Conclusion: higher levels of risk-taking in mathematics classes were associated with more positive mathematics attitudes for all students, Girls and African American students reported more positive mathematics attitudes compared to boys and White students when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19] 
+Problem: investigate associations between such strategies (i.e., student autonomy, cooperation and teamwork, technology use, risk taking, and cognitively-demanding work) and students’ attitudes toward mathematics.
 Participants: 
-Method: 
+Method: hierarchical linear regression analyses 
 Notes/comments: 
 Weakness/recommendation: 
 
@@ -178,17 +178,18 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
+### classroom  culture 
+Conclusion: statistically  significant  difference  in  the  significance  level  0.05  between  the  student-centered  group  and  the teacher-centered  group [@keu19] 
+Problem: verify  the  relationship  between  the  students'  perception  of  the mathematics  classroom  culture  and  their    attitudes  toward  mathematics  learning
+Participants: 253  sixth  grade  students
+Method: questionnaire  survey  method, independent  sample  t-test 
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
+Conclusion: attitude towards the study of mathematics are a function of teachers teaching methods. Students exhibited a positive attitude when teachers’ use student centred strategies that motivate every student to put up his/her best. [@imo19] 
+Problem: examines student attitude towards mathematics in Sagnerigu Municipality of Northern Region in Ghana, assess the perceptions of students learning in mathematics and its influence in their attitude towards mathematics
+Participants: purposive sampling technique was used to select 180 Senior High School students in Sagnerigu Municipality of the Northern Region of Ghana. 
+Method: Questionnaire
 Notes/comments: 
 Weakness/recommendation: 
 

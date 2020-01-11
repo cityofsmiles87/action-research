@@ -111,6 +111,35 @@ Method: experimental method with two equal groups with pre-test and post-test, P
 Notes/comments: 
 Weakness/recommendation: 
 
+### Problem-Based Learning (PBL) with Team Accelerated Instruction (TAI) arrangements.
+Conclusion: the application of the PBL setting TAI model has succeeded in improving student achievement and student attitudes towards mathematics.  [@cah19] 
+Problem: make improvements in learning through a classroom action research to improve student achievement and attitudes toward mathematics
+Participants: 
+Method: Classroom Action Research (CAR) is carried out by applying Problem-Based Learning (PBL) with Team Accelerated Instruction (TAI) arrangements., mathematics achievement test, and students' attitude toward mathematics questionnaire.
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
 Conclusion: 
 Problem: 
 Participants: 

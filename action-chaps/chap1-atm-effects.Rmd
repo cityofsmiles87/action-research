@@ -20,9 +20,9 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
+Conclusion: students with very positive or moderately positive levels of attitude performed better in comparison with students having negative attitudes toward mathematics, in all four stages of Polya’s problem-solving model, which includes understanding the problem, devising a plan, carrying out the plan, and looking back. students with different degrees of positive and negative attitudes toward mathematics showed meaningful differences in choosing the strategies and being aware of evaluating their solutions.[@saa19] 
+Problem: investigate whether students’ attitudes toward mathematics can affect their learning to solve non-routine mathematical problems through a collaborative learning approach.
+Participants: 214 students (grades 3–8) 
 Method: 
 Notes/comments: 
 Weakness/recommendation: 
