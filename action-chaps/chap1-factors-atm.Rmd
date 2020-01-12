@@ -50,6 +50,36 @@ Method: hierarchical linear regression analyses
 Notes/comments: 
 Weakness/recommendation: 
 
+Conclusion: no statistically  significant mean  difference  between  attitude  towards  mathematics  and metacognitive  skill scores  of  girls  and boys [@orm19] 
+Problem: analyze  the  effects  of  gender  and the  education  level  of  parents  on students’  attitudes  towards  mathematics  and meta cognitive  skills. analyze  the  relationship  between  previous  mathematics  grades  with  attitudes  towards  mathematics  and metacognition  skills
+Participants: 122  students  from  different grades  in  middle  school  —  29  fifth  graders,  31 sixth  graders,  32  seventh  graders,  and  30  eighth  graders, middle  school  which  is  selected as  a  convenient sampling  methodology  in  the Melikgazi  district  of  Kayseri,  Turkey  during  the  fall semester  of  2018-2019  
+Method: survey  model  within  quantitative  descriptive  studies.  Metacognition  Scale,  Attitude Scale,  and Demographics  Scale were administered  to  students  for  collecting  data.  Independent  samples  t-test,  oneway  analysis  of  varianc e (ANOVA),  and  Pearson  correlation  analysis  were run
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+
 ### parental influences,  teacher  affective  support and  classroom  instruction
 Conclusion: Students’  attitude  towards  mathematics  is  affected by  factors  such  as  parental influences,  teacher  affective  support and  classroom  instruction. Teacher  affective  support and classroom  instruction  predict  attitude  towards  mathematics  more  than  parental influences.  [@dav18] 
 Problem: examine the inter-relationships  between these  factors  and  effects  on attitude  towards  mathematics
@@ -78,6 +108,21 @@ Participants: 5116 adolescents from 384 schools  in the  United Arab Emirates
 Method: cross-sectional study
 Notes/comments: 
 Weakness/recommendation: 
+
+Conclusion: no statistically  significant mean  difference  between  attitudes  towards mathematics  and  metacognitive  skills  of  middle  school  students  in  terms  of  their  parents’  education  level. [@orm19] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
 
 Conclusion: 
 Problem: 
@@ -190,6 +235,49 @@ Conclusion: attitude towards the study of mathematics are a function of teachers
 Problem: examines student attitude towards mathematics in Sagnerigu Municipality of Northern Region in Ghana, assess the perceptions of students learning in mathematics and its influence in their attitude towards mathematics
 Participants: purposive sampling technique was used to select 180 Senior High School students in Sagnerigu Municipality of the Northern Region of Ghana. 
 Method: Questionnaire
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### metacognition  skill
+Conclusion: moderately  positive  relationship  was  found  between  the  students'  previous  year-end mathematics  scores  and their  attitude  towards  mathematics  and metacognitive  skill  total  score. Moreover,  a  moderate  positive  relationship  was  found between  attitude  towards  mathematics  scores  and metacognition  skill  total  scores [@orm19] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
 Notes/comments: 
 Weakness/recommendation: 
 
