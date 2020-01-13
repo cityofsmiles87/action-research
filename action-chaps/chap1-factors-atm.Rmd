@@ -57,7 +57,7 @@ Method: survey  model  within  quantitative  descriptive  studies.  Metacognitio
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
+Conclusion: No gender effect was identified although the girls showed a continuous decline in attitudes the further they progressed in school. [@mat12] 
 Problem: 
 Participants: 
 Method: 
@@ -153,13 +153,36 @@ Method: Attitudes toward  mathematics  questionnaire  (ATMQ)  and  sources  of  
 Notes/comments: 
 Weakness/recommendation: 
 
+Conclusion: negative correlation between mathematics anxiety and mathematics attitude  [@kar10] 
+Problem: investigates the relationships between mathematics anxiety, attitudes toward mathematics and mathematical thinking among university students
+Participants:  203 university students from the Faculty of Science, Engineering, Food Science, and Human Ecology in one of the public university in Malaysia.
+Method:  60-item questionnaire included mathematical thinking rating scale, mathematics anxiety rating scale and mathematics attitudes rating scale. correlation analysis, independent t-test 
+Notes/comments: good pattern for abstract 
+Weakness/recommendation: 
+ 
 Conclusion: 
 Problem: 
 Participants: 
 Method: 
 Notes/comments: 
 Weakness/recommendation: 
- 
+
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+
 
 ### motivational factors
 Conclusion: intrinsic, home environment and teacher factors have positive direct effects on the students' attitudes toward mathematics with intrinsic factor having the strongest and the most significant effect on students' attitudes toward mathematics. The findings also revealed that peer group factor and school environment factor have negative effects on students' attitudes toward mathematics [@oye17] 
@@ -267,10 +290,34 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
+### mathematical thinking
+Conclusion: significant high positive correlation exists between mathematical thinking and mathematics attitude [@kar10] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### perceived teachers’ attitudes and Race and community background factors
+Conclusion: score increases in perceived usefulness of mathematics and perceived teachers’ attitudes toward the girls in mathematics were not significant. Race and community background factors did not significantly affect the girls’ scores. [@deh15] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
 Conclusion: 
 Problem: 
 Participants: 
 Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### motivation 
+Conclusion: students held positive attitudes towards mathematics. motivation-related variables are the main predictors of attitudes towards mathematics and that teachers and the social support of peers are also highly significant in understanding these attitudes. [@mat12] 
+Problem: understand how certain different but interrelated variables such as background, motivation, and social support could lead to an explanation of student attitudes towards math and to an understanding of the defining characteristics of these attitudes in the school environment. 
+Participants: 1719 Portuguese students, from fifth-to-twelfth grade.
+Method: Intrinsic Motivation Inventory, hierarchical analysis using structural equation modeling
 Notes/comments: 
 Weakness/recommendation: 
 

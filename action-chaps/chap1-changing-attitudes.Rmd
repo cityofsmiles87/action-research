@@ -127,10 +127,17 @@ Method: quasiexperimental  study  was  carried  out  on  two  form  one  classes
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
+Conclusion: Statistically significant differences in attitudes toward mathematics were found favoring students in the whole-group instruction, competitive setting. [@gar01] 
+Problem: investigate gender differences in self-efficacy, attitudes toward mathematics, and achievement 
+Participants: 48 gifted seventh- and eighth-grade students after participating in a two-week course on probability and statistics that was taught with a mathematical problemn-solving approach using heuristic strategies.
+Method: pretest-posttest control group design 
+Notes/comments: 2 weeks intervention 
+Weakness/recommendation: 
+
+Conclusion: cooperative learning had significant effects on mathematics achievement and attitudes towards mathematics.  [@hos13] 
+Problem: identify the effects of cooperative learning on students’ mathematics achievement and attitudes towards mathematics
+Participants: selected secondary schools in Bangladesh. A total of 80 students (40 from Boys’ school and the other 40 from Girls’ school) of grade nine 
+Method: quasi-experimental design, independent-sample test.
 Notes/comments: 
 Weakness/recommendation: 
 
@@ -148,10 +155,26 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
+### all-female, non-school-based mathematics program
+Conclusion: Confidence scores increased significantly,  [@deh15] 
+Problem: investigated the impact of an all-female, non-school-based mathematics program on middle-school-aged girls’ attitudes towards mathematics. 
+Participants: Girls who attended a Girls Math and Technology Program for two consecutive years
+Method: Modified Fennema-Sherman Mathematics Attitude Scale
+Notes/comments: 
+Weakness/recommendation: 
+
 Conclusion: 
 Problem: 
 Participants: 
 Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### framing and team assisted individualised (TAI) instructional strategies
+Conclusion: significant main effects of treatment and gender in which the participants exposed to the TAI strategy had the highest post-treatment attitudes mean score and male students had stronger attitudes toward mathematics than their female counterparts.  [@awo13] 
+Problem: investigated the relative effectiveness of framing and team assisted individualised (TAI) instructional strategies on the attitudes toward mathematics 
+Participants:  350 senior secondary school year two Nigerian students
+Method: pre-test and post-test control group quasiexperimental design using a 3×2×2 factorial matrix with two experimental groups and one control group. analysis of covariance and Scheffe Test. Attitudes toward Mathematics Inventory (ATMI) and Style of Categorization Test (SCT) 
 Notes/comments: 
 Weakness/recommendation: 
 
