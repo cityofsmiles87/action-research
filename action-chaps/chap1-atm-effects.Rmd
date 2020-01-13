@@ -27,11 +27,11 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
+Conclusion: students’  attitudes  have  a  significant  relationship with  their  achievement  in  mathematics [@pet19] 
+Problem: determined  the  attitudes  and  academic  achievement  of  students who  are  recipients  of  Conditional Cash  Transfer  (CCT)  towards  mathematics  in  a  public  national  high  school,  Bohol,  Philippines
+Participants: 112  respondents
+Method: descriptive  research, Pearson  r, Attitudes  toward  Mathematics  Inventory  (ATMI) 
+Notes/comments: local study 
 Weakness/recommendation: 
 
 Conclusion: 

@@ -246,6 +246,13 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
+Conclusion: Longitudinally, higher mathematical competence in sixth grade was associated with lower mathematics anxiety for evaluations and better mathematics attitudes in seventh grade for girls but not for boys. adolescent girls’ mathematics anxiety and their attitudes toward mathematics are more reflective of their actual mathematical competence than they are for boys.    [@gea19] 
+Problem: Sex differences in the strength of the relations between mathematics anxiety, mathematics attitudes, and mathematics achievement were assessed concurrently in sixth grade (n = 1,091, 545 boys) and longitudinally from sixth to seventh grade (n = 190, 97 boys).
+Participants: 
+Method: 
+Notes/comments: girls with low achievement are at higher risk of developing mathematics anxiety and poor attitudes toward mathematics.
+Weakness/recommendation: 
+
 ### classroom  culture 
 Conclusion: statistically  significant  difference  in  the  significance  level  0.05  between  the  student-centered  group  and  the teacher-centered  group [@keu19] 
 Problem: verify  the  relationship  between  the  students'  perception  of  the mathematics  classroom  culture  and  their    attitudes  toward  mathematics  learning

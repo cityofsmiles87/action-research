@@ -178,21 +178,24 @@ Method: pre-test and post-test control group quasiexperimental design using a 3�
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
+### problem posing  instruction 
+Conclusion: the  effect  of  problem posing  instruction  on  the  attitudes  toward  mathematics  and mathematics  self-efficacy  of  elementary  prospective  mathematics teachers  was  in a positive  way  and at  significant  level [@aka10] 
+Problem: examines  the  effect  of problem  posing  instruction  on  the  attitudes  toward  mathematics  and mathematics  self-efficacy  of  elementary  prospective  mathematics teachers.
+Participants: 82  elementary  prospective  mathematics  teachers. 
+Method: pre-test–intervention–post-test experimental  design, Quantitative  research  techniques 
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
+### motivational video
+Conclusion: Statistically significant results were observed for improved attitudes toward mathematics. [@hod13] 
+Problem: investigate the effectiveness of a treatment designed to improve college algebra students’ attitudes toward mathematics. Keller’s ARCS motivational design model was used as a guiding framework for the development of a motivational video, which was delivered online.
+Participants:  43 students enrolled in a college algebra course offered at a large state university in the mid-Atlantic region of the United States
+Method: pretest-posttest control group design
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
+### 
+Conclusion:  [@mek18] 
 Problem: 
 Participants: 
 Method: 
