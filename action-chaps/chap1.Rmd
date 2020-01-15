@@ -1,31 +1,29 @@
-The introduction states  the topic  and  the  main questions  to be  explored
-
-The researchers supply background information by  discussing past  research on  the  topic.
-
-The researchers explain  how their  study will  add  to past  research on  the  topic
-
-The researchers state  their initial hypotheses.
-
-First  address the  problem!  State the overall area of concern (populations-at-risk for injustice or  discrimination; need for more functional affiliations for individuals and groups; unethical policies/practices; lack of knowledge in  the field, etc.). Arouse the  reader’s interest; tell the reader what to expect in the rest of your paper.  Provide  brief statistics to indicate the incidence of the problem.   Next, discuss how this  problem  area affects individuals, communities, and society as a whole (what are issues of physical and economic health).  The potential utility of your study can be:  1) an addition to current knowledge of a problem  or a vulnerable population;  2) to put theory to an empirical test; 3) to better understand the relationship between variables (e.g., adherence and technology); or 4) to determine the effectiveness of a treatment  method, technology, or program.   
+<!--The introduction states  the topic  and  the  main questions  to be  explored-->
 
 
-As you begin, you need to share your  theory base  with the readers so they understand how what you are presenting is influenced by that  theory base. As you read articles on your topic look for what other authors have to say about a theoretical framework for understand the problem  and pointing a direction for solutions. 
+<!-- First  address the  problem!  State the overall area of concern (populations-at-risk for injustice or  discrimination; need for more functional affiliations for individuals and groups; unethical policies/practices; lack of knowledge in  the field, etc.). -->
 
-Make sure it is clear to the reader how information is related to your experimental hypotheses or procedure. So, if you are using their method, then talk about their method;  if they found similar results, talk about their results; if they operationally defined their DV like you want to, then  talk about that, etc. To make this section of your paper effective, you should explicitly relate information from  various sources to each other and to your proposed research. After you discuss past research, you should make it clear how your study is the next  logical one, that  your study improves upon past studies, that your study fills obvious holes left by the others. 
-
-As many teachers have observed, 
-
-Attitudes toward Mathematics affect the junior high school  students' choice of academic track in senior high school which in turn determines their choice of academic program in college and their future career choice. 
+Attitudes toward math (ATM) predict math achievement. [@dem19; @lip16; @pet19]  students with very positive or moderately positive levels of attitude performed better in comparison with students having negative attitudes toward mathematics [@saa19]
+no  significant  relationship  of  attitudes  toward mathematics  with  mathematics  achievement [@jun19]
+ students with different degrees of positive and negative attitudes toward mathematics showed meaningful differences in choosing the strategies and being aware of evaluating their solutions.[@saa19] 
 
 
-Most women avoid Math-intensive careers due to negative attitudes toward Mathematics. 
+<!--  Arouse the  reader’s interest; tell the reader what to expect in the rest of your paper.  Provide  brief statistics to indicate the incidence of the problem.  -->
 
-''And while it was initially an expression of sentimentality, sorrow or spite, hugot eventually took on playful undertones as usage became more and more widespread... '' fullcite{ver18}.
-cite{alk13}
+<!--   Next, discuss how this  problem  area affects individuals, communities, and society as a whole (what are issues of physical and economic health).  The potential utility of your study can be:  1) an addition to current knowledge of a problem  or a vulnerable population;  2) to put theory to an empirical test; 3) to better understand the relationship between variables (e.g., adherence and technology); or 4) to determine the effectiveness of a treatment  method, technology, or program.   --> 
 
-parencite parencite{ver18} 
 
-textcite textcite{alk13} 
+<!-- As you begin, you need to share your  theory base  with the readers so they understand how what you are presenting is influenced by that  theory base. As you read articles on your topic look for what other authors have to say about a theoretical framework for understand the problem  and pointing a direction for solutions. The researchers state  their initial hypotheses. -->
+
+<!-- Make sure it is clear to the reader how information is related to your experimental hypotheses or procedure. So, if you are using their method, then talk about their method;  if they found similar results, talk about their results; if they operationally defined their DV like you want to, then  talk about that, etc. To make this section of your paper effective, you should explicitly relate information from  various sources to each other and to your proposed research. After you discuss past research, you should make it clear how your study is the next  logical one, that  your study improves upon past studies, that your study fills obvious holes left by the others. The researchers supply background information by  discussing past  research on  the  topic. The researchers explain  how their  study will  add  to past  research on  the  topic -->
+
+This research proposal attempts to determine the effectiveness of ``Math Hugot'' as an intervention for improving the attitudes toward Mathematics among the Grade 10 students of Sauyo High School. The main questions to be  explored are: (1) What is the mean 
+
+
+
+
+
+
 
 ## The Concept and Phenomenon of ``Math Hugot''
 ```{r child = './chap1-hugot-concept.Rmd'}
@@ -51,5 +49,5 @@ In the closing two – three paragraph of the  introduction, establish  the need
 
 After you present what is already known,  make your case for your  research either answering a new question, getting  a new answer to an old question, answering a question about a new population, etc. After you have made your case that your research is going to give new information, you will summarize the major points.   Remember that the Introduction discusses the problem.  The review of literature should concentrate on solutions  (those that exist, those that are still required).  Finally, you will formulate (in the last  sentence) your research question or your hypothesis.
 
-Aramumumfn
+
  

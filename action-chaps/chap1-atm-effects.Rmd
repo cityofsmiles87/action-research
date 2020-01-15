@@ -6,12 +6,7 @@ Method:
 Notes/comments: The results suggest that positive ATM in low-skill children might encourage them to more fully engage the neurocognitive systems underlying controlled effort and retrieval of multiplication facts. 
 Weakness/recommendation: 
 
-Conclusion: positive correlation between previous high achievement in mathematics and favorable attitude toward it.  [@kar17] 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
+
 
 Conclusion: attitudes toward mathematics incrementally explaining 25% (Germany) and 7% (Belarus) of variance in mathematics grades over and above students' cognitive ability and Big Five personality dimensions.  [@lip16] 
 Problem: investigated whether student-reported mathematics attitudes, conceptualized with the theory of planned behavior, incrementally contributed to students' mathematics grades over and above cognitive ability and the Big Five personality dimensions. 
@@ -34,7 +29,26 @@ Method: descriptive  research, Pearson  r, Attitudes  toward  Mathematics  Inven
 Notes/comments: local study 
 Weakness/recommendation: 
 
+Conclusion: no  significant  relationship  of  attitudes  toward mathematics  with  mathematics  achievement [@jun19] 
+Problem: to  determine  the  level  of  attitudes  toward mathematics,  mathematics  self-efficacy,  mathematics  achievement and  the relationship  among  them
+Participants: 200  of  Grade  10  students  who enrolled  in  A  Len  Bum  IDPs  High  School  in  the  academic  year  2018-2019,   in  Kachin  State,  Myanmar
+Method: Attitudes toward  mathematics  questionnaire  (ATMQ)  and  sources  of  mathematics  self-efficacy scale  (SMSES)  
+Notes/comments: 
+Weakness/recommendation: 
+
 Conclusion: 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Attitudes toward math (ATM) predict math achievement. [@dem19; @lip16; @pet19]  students with very positive or moderately positive levels of attitude performed better in comparison with students having negative attitudes toward mathematics [@saa19]
+no  significant  relationship  of  attitudes  toward mathematics  with  mathematics  achievement [@jun19]
+ students with different degrees of positive and negative attitudes toward mathematics showed meaningful differences in choosing the strategies and being aware of evaluating their solutions.[@saa19] 
+
+### metacognition  skill
+Conclusion: a  moderate  positive  relationship  was  found between  attitude  towards  mathematics  scores  and metacognition  skill  total  scores [@orm19] 
 Problem: 
 Participants: 
 Method: 
@@ -62,3 +76,10 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
+### self-efficacy
+Conclusion:  strong and positive correlation was found between students’ attitudes and self-efficacy perceptions towards mathematics. [@mum15] 
+Problem: determine the students’ attitudes and self-efficacy perceptions towards mathematics in terms of education programs, gender, grade level and mathematics performance, it also aims to see the relationship between attitudes and self-efficacy perceptions towards mathematics themselves.
+Participants:  212 students from different departments in a multi- program high school. 
+Method:  İndependent t-test, one way ANOVA and correlation, descriptive
+Notes/comments: 
+Weakness/recommendation: 

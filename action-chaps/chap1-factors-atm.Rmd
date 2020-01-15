@@ -1,10 +1,10 @@
 The following factors have an impact on attitudes toward Mathematics: 
 
 ### gender 
-Conclusion: there was a significant main effect of gender on mean attitude scores. males’ average attitude score was significantly less than females’ average attitude scores.  school type did not have signifi-cant main effect on mean self-efficacy scores, anxiety scores, and achieve-ment scores but have significant effect on attitude scores. the attitude scores of private school stu-dents were significantly higher than the mean attitude scores of public school students. [@rec18] 
+Conclusion: there was a significant main effect of gender on mean attitude scores. males’ average attitude score was significantly less than females’ average attitude scores.   [@rec18] 
 Problem: The purpose of this study was to investigate the relationship among seventh grade students’ mathematics self-efficacy, mathematics anx-iety, attitudes towards mathematics, mathematics achievement, gender and school type.
 Participants: 934 seventh grade students with an average age of 12 from 13 elementary schools, seven public and six private, in Ankara, Turkey
-Method: two-way ANO-VAs, multiple regression analysis,  Two associational research types, causal-comparative and correlational research designs 
+Method: two-way ANOVAs, multiple regression analysis,  Two associational research types, causal-comparative and correlational research designs 
 Notes/comments: good pattern for results reporting 
 Weakness/recommendation: done in elementary, respondents sampled convenience
 
@@ -43,7 +43,7 @@ Method: used The Attitude Toward Mathematics Inventory (ATMI)
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: higher levels of risk-taking in mathematics classes were associated with more positive mathematics attitudes for all students, Girls and African American students reported more positive mathematics attitudes compared to boys and White students when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19] 
+Conclusion: Girl students reported more positive mathematics attitudes compared to boys when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19] 
 Problem: investigate associations between such strategies (i.e., student autonomy, cooperation and teamwork, technology use, risk taking, and cognitively-demanding work) and students’ attitudes toward mathematics.
 Participants: 
 Method: hierarchical linear regression analyses 
@@ -63,6 +63,14 @@ Participants:
 Method: 
 Notes/comments: 
 Weakness/recommendation: 
+
+males’ average attitude score was significantly less than females’ average attitude scores [@rec18] female  students scoring higher than  male students in both constructs (enjoyment of mathematics and mathematical self-perceptions)  [@afa18] Girl students reported more positive mathematics attitudes compared to boys when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19] 
+
+students have a positive attitude toward mathematics. [@kar17; @mat12]  level  of attitudes  toward  mathematics  of  Grade  10  students  was  high [@jun19] 
+
+Longitudinally, higher mathematical competence in sixth grade was associated with better mathematics attitudes in seventh grade for girls but not for boys. [@gea19] 
+
+There is no significant difference between male and female students in terms of their attitude toward mathematics  [@kar17; @sar17; @sir19; @orm19]   No gender effect was identified although the girls showed a continuous decline in attitudes the further they progressed in school. [@mat12] 
 
 
 Conclusion: 
@@ -88,7 +96,7 @@ Method: partial least  squares-structural equation modeling approach
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: Higher prior mathematics achievement and positive parental beliefs and attitudes were significant predictors of higher scores across the 3 indicators. At the classroom level, classroom assessment was significantly associated with less endorsement of all 3 indicators, higher levels of classroom modeling with greater endorsement of perceived usefulness of mathematics, and classroom questioning with greater enjoyment of mathematics. [@kiw17] 
+Conclusion: Higher prior mathematics achievement and positive parental beliefs and attitudes were significant predictors of higher scores across the 3 indicators. At the classroom level, classroom assessment was significantly associated with less endorsement of all 3 indicators, higher levels of classroom modeling with greater endorsement of perceived usefulness of mathematics [@kiw17] 
 Problem: investigated the effects of student and classroom characteristics on math self-confidence, perceived usefulness, and enjoyment of mathematics as multiple outcomes.
 Participants: 7th-grade students from 78 classes of 49 schools 
 Method: multivariate multilevel analysis 
@@ -109,12 +117,7 @@ Method: cross-sectional study
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: no statistically  significant mean  difference  between  attitudes  towards mathematics  and  metacognitive  skills  of  middle  school  students  in  terms  of  their  parents’  education  level. [@orm19] 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
+Students’  attitude  towards  mathematics  is  affected by  factors  such  as  parental influences,  teacher  affective  support and  classroom  instruction. Teacher  affective  support and classroom  instruction  predict  attitude  towards  mathematics  more  than  parental influences.  [@dav18] positive parental beliefs and attitudes were significant predictors of higher scores across math self-confidence, perceived usefulness, and enjoyment of mathematics [@kiw17] statistically significant positive  correlations  between  parents' and  students' attitudes toward  mathematics.  Additionally,  parents'  mathematics attitude significantly predicted students' attitudes toward mathematics [@moh17] adolescents  who perceived that their parents liked  mathematics and considered mathematics was  important for their children not only  to study but  also  for  their  career tended to  report higher levels  of intrinsic and instrumental motivation to learn mathematics, mathematics  self-concept and self-efficacy, and mathematics  work ethic [@are15] teachers and the social support of peers are also highly significant in understanding these attitudes. [@mat12]  
 
 Conclusion: 
 Problem: 
@@ -146,12 +149,7 @@ Method:
 Notes/comments: 
 Weakness/recommendation:
 
-Conclusion: level  of attitudes  toward  mathematics  of  Grade  10  students  was  high, no  significant  relationship  of  attitudes  toward mathematics  and  mathematics  self-efficacy  with  mathematics  achievement [@jun19] 
-Problem: to  determine  the  level  of  attitudes  toward mathematics,  mathematics  self-efficacy,  mathematics  achievement and  the relationship  among  them
-Participants: 200  of  Grade  10  students  who enrolled  in  A  Len  Bum  IDPs  High  School  in  the  academic  year  2018-2019,   in  Kachin  State,  Myanmar
-Method: Attitudes toward  mathematics  questionnaire  (ATMQ)  and  sources  of  mathematics  self-efficacy scale  (SMSES)  
-Notes/comments: 
-Weakness/recommendation: 
+
 
 Conclusion: negative correlation between mathematics anxiety and mathematics attitude  [@kar10] 
 Problem: investigates the relationships between mathematics anxiety, attitudes toward mathematics and mathematical thinking among university students
@@ -182,22 +180,28 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
+correlations between mathematics anxiety and attitude towards mathematics were not very strong but significant [@hac17]
+
+negative correlation between mathematics anxiety and mathematics attitude  [@kar10] 
 
 
 ### motivational factors
-Conclusion: intrinsic, home environment and teacher factors have positive direct effects on the students' attitudes toward mathematics with intrinsic factor having the strongest and the most significant effect on students' attitudes toward mathematics. The findings also revealed that peer group factor and school environment factor have negative effects on students' attitudes toward mathematics [@oye17] 
+Conclusion: intrinsic, home environment and teacher factors have positive direct effects on the students' attitudes toward mathematics with intrinsic factor having the strongest and the most significant effect on students' attitudes toward mathematics. The findings also revealed that  [@oye17] 
 Problem: use path analysis to investigate the type of direct effects the motivational factors have on the students' attitudes toward mathematics.
 Participants: twelve senior secondary schools were randomly selected from the Edo State South Senatorial District. Thirty students were randomly selected from each of the schools and a total of three hundred and sixty students were used for the study. 
 Method: Pearson Moment correlation and Regression analysis 
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: The students enrolled in regular school programs show higher self-efficacy perceptions and attitudes than those attending vocational programs. strong and positive correlation was found between students’ attitudes and self-efficacy perceptions towards mathematics. [@mum15] 
-Problem: determine the students’ attitudes and self-efficacy perceptions towards mathematics in terms of education programs, gender, grade level and mathematics performance, it also aims to see the relationship between attitudes and self-efficacy perceptions towards mathematics themselves.
-Participants:  212 students from different departments in a multi- program high school. 
-Method:  İndependent t-test, one way ANOVA and correlation, descriptive
+
+
+Conclusion: motivation-related variables are the main predictors of attitudes towards mathematics  [@mat12] 
+Problem: understand how certain different but interrelated variables such as background, motivation, and social support could lead to an explanation of student attitudes towards math and to an understanding of the defining characteristics of these attitudes in the school environment. 
+Participants: 1719 Portuguese students, from fifth-to-twelfth grade.
+Method: Intrinsic Motivation Inventory, hierarchical analysis using structural equation modeling
 Notes/comments: 
 Weakness/recommendation: 
+
 
 Conclusion: 
 Problem: 
@@ -212,6 +216,8 @@ Participants:
 Method: 
 Notes/comments: 
 Weakness/recommendation: 
+
+intrinsic, home environment and teacher factors have positive direct effects on the students' attitudes toward mathematics with intrinsic factor having the strongest and the most significant effect on students' attitudes toward mathematics.[@oye17] motivation-related variables are the main predictors of attitudes towards mathematics compared to background and social support  [@mat12] 
 
 ### game preferences and grade levels
 
@@ -246,14 +252,17 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: Longitudinally, higher mathematical competence in sixth grade was associated with lower mathematics anxiety for evaluations and better mathematics attitudes in seventh grade for girls but not for boys. adolescent girls’ mathematics anxiety and their attitudes toward mathematics are more reflective of their actual mathematical competence than they are for boys.    [@gea19] 
+Conclusion: Longitudinally, higher mathematical competence in sixth grade was associated with better mathematics attitudes in seventh grade for girls but not for boys.  [@gea19] 
 Problem: Sex differences in the strength of the relations between mathematics anxiety, mathematics attitudes, and mathematics achievement were assessed concurrently in sixth grade (n = 1,091, 545 boys) and longitudinally from sixth to seventh grade (n = 190, 97 boys).
 Participants: 
 Method: 
 Notes/comments: girls with low achievement are at higher risk of developing mathematics anxiety and poor attitudes toward mathematics.
 Weakness/recommendation: 
 
-### classroom  culture 
+
+competence,  enjoyment  and  perceived  relevance are significantly  related  to  attitude  and  competence  was  the  most  influential  factor  of  attitude [@bua19] Longitudinally, higher mathematical competence in sixth grade was associated with better mathematics attitudes in seventh grade for girls but not for boys. [@gea19] 
+
+### classroom  culture and teaching methods
 Conclusion: statistically  significant  difference  in  the  significance  level  0.05  between  the  student-centered  group  and  the teacher-centered  group [@keu19] 
 Problem: verify  the  relationship  between  the  students'  perception  of  the mathematics  classroom  culture  and  their    attitudes  toward  mathematics  learning
 Participants: 253  sixth  grade  students
@@ -268,12 +277,7 @@ Method: Questionnaire
 Notes/comments: 
 Weakness/recommendation: 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
+statistically  significant  difference  between  the  student-centered  group  and  the teacher-centered  group [@keu19] Students exhibited a positive attitude when teachers’ use student centred strategies that motivate every student to put up his/her best. [@imo19] 
 
 Conclusion: 
 Problem: 
@@ -282,13 +286,14 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-### metacognition  skill
-Conclusion: moderately  positive  relationship  was  found  between  the  students'  previous  year-end mathematics  scores  and their  attitude  towards  mathematics  and metacognitive  skill  total  score. Moreover,  a  moderate  positive  relationship  was  found between  attitude  towards  mathematics  scores  and metacognition  skill  total  scores [@orm19] 
+Conclusion: 
 Problem: 
 Participants: 
 Method: 
 Notes/comments: 
 Weakness/recommendation: 
+
+
 
 Conclusion: 
 Problem: 
@@ -305,13 +310,6 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-### perceived teachers’ attitudes and Race and community background factors
-Conclusion: score increases in perceived usefulness of mathematics and perceived teachers’ attitudes toward the girls in mathematics were not significant. Race and community background factors did not significantly affect the girls’ scores. [@deh15] 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
 
 Conclusion: 
 Problem: 
@@ -320,13 +318,7 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-### motivation 
-Conclusion: students held positive attitudes towards mathematics. motivation-related variables are the main predictors of attitudes towards mathematics and that teachers and the social support of peers are also highly significant in understanding these attitudes. [@mat12] 
-Problem: understand how certain different but interrelated variables such as background, motivation, and social support could lead to an explanation of student attitudes towards math and to an understanding of the defining characteristics of these attitudes in the school environment. 
-Participants: 1719 Portuguese students, from fifth-to-twelfth grade.
-Method: Intrinsic Motivation Inventory, hierarchical analysis using structural equation modeling
-Notes/comments: 
-Weakness/recommendation: 
+
 
 Conclusion: 
 Problem: 
@@ -334,6 +326,69 @@ Participants:
 Method: 
 Notes/comments: 
 Weakness/recommendation: 
+
+### school type
+Conclusion: school type have significant effect on attitude scores. the attitude scores of private school stu-dents were significantly higher than the mean attitude scores of public school students. [@rec18] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+the attitude scores of private school stu-dents were significantly higher than the mean attitude scores of public school students. [@rec18] 
+
+peer group factor and school environment factor have negative effects on students' attitudes toward mathematics [@oye17] 
+
+The students enrolled in regular school programs show higher attitudes than those attending vocational programs. [@mum15] 
+
+### risk-taking
+Conclusion: higher levels of risk-taking in mathematics classes were associated with more positive mathematics attitudes for all students [@zuo19] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### race
+Conclusion: African American students reported more positive mathematics attitudes compared to White students when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: Race and community background factors did not significantly affect the girls’ scores. [@deh15] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+### prior mathematics achievement
+Conclusion: Higher prior mathematics achievement was significant predictor of higher scores across math self-confidence, perceived usefulness, and enjoyment of mathematics [@kiw17] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: moderately  positive  relationship  was  found  between  the  students'  previous  year-end mathematics  scores  and their  attitude  towards  mathematics   [@orm19] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Conclusion: positive correlation between previous high achievement in mathematics and favorable attitude toward it.  [@kar17] 
+Problem: 
+Participants: 
+Method: 
+Notes/comments: 
+Weakness/recommendation: 
+
+Higher prior mathematics achievement was significant predictor of higher scores across math self-confidence, perceived usefulness, and enjoyment of mathematics [@kiw17] positive correlation between previous high achievement in mathematics and favorable attitude toward it.  [@kar17] 
+
+moderately  positive  relationship  was  found  between  the  students'  previous  year-end mathematics  scores  and their  attitude  towards  mathematics   [@orm19] 
 
 Conclusion: 
 Problem: 
