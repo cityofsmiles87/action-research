@@ -1,12 +1,18 @@
 ---
 title: "Effects of ``Math Hugot'' on Attitudes Toward Mathematics among Grade 10 Students of Sauyo High School, S.Y. 2020 -- 2021"
+shorttitle: "Effects of ``Math Hugot'' on ATM"
 
 author: 
   - name: "Jonathan R. Bacolod" 
+    affiliation   : ""
     corresponding : yes    # Define only one corresponding author
     address: "Mathematics Department, Sauyo High School, NIA Village, Sauyo, Quezon City"
     email: "jonathan_bacolod@yahoo.com"
-    
+
+affiliation:
+  - id            : ""
+    institution   : "Sauyo High School"
+
 authornote: |
   Jonathan R. Bacolod is a Mathematics teacher in Sauyo High School, Quezon City. 
 
@@ -48,8 +54,6 @@ classoption: "man, noextraspace"
 output:
    papaja::apa6_pdf:
       keep_tex: FALSE
-      includes:
-         in_header: thesis-preamble-papaja.tex
 appendix: "./chapters/appendix.Rmd"
 ---
 
@@ -70,7 +74,8 @@ pagebreak <- function() {
   else
     return('<div style="page-break-before: always;" />')}
 ```
- 
+<!-- includes:
+         in_header: thesis-preamble-papaja.tex -->
 
 ```{r create_r-references}
 r_refs(file = "r-references.bib")
@@ -79,21 +84,16 @@ my_citations <- cite_r(file = "r-references.bib", pkgs = c("ggplot2", "papaja", 
 
 ```{r child = '/R-Markdown/thesis/action-chaps/chap1.Rmd'}
 ```
- 
 
 # Methods
-{r child = '/R-Markdown/thesis/action-chaps/chap2.Rmd'}
+<!-- {r child = '/R-Markdown/thesis/action-chaps/chap2.Rmd'} -->
 
-biblio-style      : "apa"
-citation_package: biblatex
-"``Math Hugot'': An Intervention for Improving Attitudes toward Mathematics"
-shorttitle        : "Math Hugot: An Intervention for Improving ATM"
 
 # Results 
 
 # Discussion
 
-`r pagebreak`
+<!-- r pagebreak  -->
 \newpage
 
 # References
@@ -103,5 +103,3 @@ shorttitle        : "Math Hugot: An Intervention for Improving ATM"
 \setlength{\leftskip}{0.5in}
 <div id = "refs"></div>
 \endgroup
-
-

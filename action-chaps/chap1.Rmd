@@ -1,14 +1,58 @@
 <!--The introduction states  the topic  and  the  main questions  to be  explored-->
 
+Low performance in Mathematics is a prevalent problem among high school students in the Philippines. As revealed in the Trends in International Mathematics and Science Study (TIMMS) conducted in 1995, 1999 and 2003, the Philippines was consistently ranked among the five least performing countries [@gun20]. Similarly, the results of the 2018 Programme for International Student Assessment (PISA) Survey showed that among the 79 countries that are members of the Organization for Economic Co-operation and Development (OECD), the Philippines is the second worst performer in Mathematics [@lle19]. These results are also similar to the outcomes of the National Achievement Tests (NAT) [@cat19]. Since the school year 2013-2014, the national average in the NAT obtained by Grade 10 learners has been continuously decreasing [@agu19]. The mean percentage score (MPS) gained by our junior high school takers was 51.41 in 2013, 53.77 in 2014, 49.48 in 2015, 44.1 in 2016, 44.08 in 2017, and 44.59 in 2018. These results are all within the ``low mastery'' level [@alb19; @agu19].  
+
+
 
 <!-- First  address the  problem!  State the overall area of concern (populations-at-risk for injustice or  discrimination; need for more functional affiliations for individuals and groups; unethical policies/practices; lack of knowledge in  the field, etc.). -->
 
 Attitudes toward math (ATM) predict math achievement. [@dem19; @lip16; @pet19]  students with very positive or moderately positive levels of attitude performed better in comparison with students having negative attitudes toward mathematics [@saa19]
 no  significant  relationship  of  attitudes  toward mathematics  with  mathematics  achievement [@jun19]
  students with different degrees of positive and negative attitudes toward mathematics showed meaningful differences in choosing the strategies and being aware of evaluating their solutions.[@saa19] 
-
+ 
+Attitudes toward Mathematics have been found to affect performance 
+ 
 
 <!--  Arouse the  reader’s interest; tell the reader what to expect in the rest of your paper.  Provide  brief statistics to indicate the incidence of the problem.  -->
+
+<!-- 
+Grade 10 MPS of 44.59 improved by 0.51 in NAT 2018 over the score in the 2017 of 44.08. fall under the “low mastery” level in the NAT. Grade 10 takers were steady at the “low mastery” range with 51.41 MPS in 2013, 53.77 in 2014 and 49.48 in 2015. The descriptive equivalent of NAT scores are as follows: 35 below, very low mastery; 36 to 65, low mastery; 66 to 85, average mastery; 86 to 95, moving towards mastery; 96 to 100, mastered. [@alb19] 
+
+NAT scores were low during the school year 2016-2017 with Grade 10 students were graded at 44.1%.The performance was slightly lower than the 44.7% average, in the 2015-2016 school year.a decline in the overall NAT average for Grade 10 students since 2013-2014. [@agu19] 
+
+DepEd, on Wednesday, December 4, issued a statement following the result of the 2018 Programme for International Student Assessment (Pisa) Survey, wherein the Philippines ranked low in reading comprehension, mathematics, and science. According to the survey, the Philippines scored 340 points in reading comprehension. The country is also second-lowest in mathematics with 353 points and science with 357 points. It is below the 487 point-average for reading, while 489 for mathematics and science.
+the Pisa 2018 tested around 600,000 15-year-old students, 
+A total of 79 countries and economies participated in the 2018 Pisa Survey, conducted by the Organisation for Economic Co-operation and Development (OECD), an intergovernmental economic organization.[@lle19] 
+
+THE 2018 Programme for International Student Assessment (PISA) of the Organization for Economic Co-operation and Development results revealed that the Philippines scored 353 in Mathematics, 357 in Science, and 340 in Reading, all below the average of participating OECD countries. These figures also reflect the learners' performance in the National Achievement Test,[@cat19] 
+
+After its historic feat last year, capping the 2017 National Achievement Test (NAT) in Central Luzon, the City of San Fernando once again outdid other 19 divisions in Central Luzon as it topped the NAT overall ranking for 2018. For elementary, the city garnered an MPS of 42.81 in Mathematics. Garnering an overall MPS of 47.21, the city meanwhile ranked fourth for Junior High School level with an MPS of 35.12 in Mathematics. for Senior High School level where the city also landed on fourth rank. 29.66 in Mathematics. For the overall MPS, combining all three levels, the city garnered 3.00 Mean Rank, the highest among 20 divisions in the region.[@cit19] 
+-->
+ 
+<!-- We figured among the worst five
+countries in the achievement tests in the
+1995, 1999 and 2003 Trends in
+International Mathematics and Science
+Study. [@gun20]  -->
+
+<!-- 
+Grade 10 MPS
+2018 44.59 
+2017 44.08
+2016 44.1
+2015 49.48
+2014 53.77 
+2013 51.41 
+[@alb19; @agu19] 
+ -->
+
+
+Grade 10 takers were steady at the “low mastery” range [@alb19] 
+
+<!-- 
+The country is  second-lowest in mathematics with 353 points in the  2018 Programme for International Student Assessment (Pisa) Survey. It is below the 489 point-average for mathematics. the Pisa 2018 tested around 600,000 15-year-old students from a total of 79 countries and economies that  participated. [@lle19] PISA results revealed that the Philippines scored below the average of participating OECD (Organization for Economic Co-operation and Development) countries. These figures also reflect the learners' performance in the National Achievement Test,[@cat19]  -->
+
+the City of San Fernando topped the NAT overall ranking for 2018 in Central Luzon. Garnering an overall MPS of 47.21, the city  ranked fourth for Junior High School level with an MPS of 35.12 in Mathematics. [@cit19] 
 
 <!--   Next, discuss how this  problem  area affects individuals, communities, and society as a whole (what are issues of physical and economic health).  The potential utility of your study can be:  1) an addition to current knowledge of a problem  or a vulnerable population;  2) to put theory to an empirical test; 3) to better understand the relationship between variables (e.g., adherence and technology); or 4) to determine the effectiveness of a treatment  method, technology, or program.   --> 
 
