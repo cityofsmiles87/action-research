@@ -1,0 +1,3 @@
+In order to achieve the goals of this study, the following statistical measures and tests  will be computed using R version `r getRversion()` installed in an Android smartphone. The level of statistical significance is set at 5%. 
+
+We used `r my_citations` for all our analyses.

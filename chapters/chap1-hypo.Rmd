@@ -1,0 +1,13 @@
+The following null hypotheses will be tested at 0.05 level of
+signifcance: 
+
+1. There is no significant difference in the pre-intervention and post-intervention ATMI scores  of the control group. 
+
+2. There is no significant difference in the pre-intervention and post-intervention ATMI scores  of the experimental  group. 
+
+3. There is no significant difference in the post-intervention ATMI scores of the control group and the experimental group. 
+
+4. There is no significant difference in the post-intervention ATMI scores of the male and female respondents in the experimental group. 
+
+
+

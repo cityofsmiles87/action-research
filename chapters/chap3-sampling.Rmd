@@ -1,0 +1,3 @@
+The population targeted in this study is the Grade 10 students  of Sauyo High School  with approximately 900   learners divided into 21  sections. Convenience sampling will be used to identify the respondents.  The pretest will be  administered to all  Grade 10 students   handled by the researcher and the scores will be tallied per section. The One Factor Analysis of Variance (ANOVA) will be computed for all sections so as to determine two sections whose mean scores are not significantly different.  Then each of the two  sections will be randomly assigned as the control group and the experimental group. 
+
+

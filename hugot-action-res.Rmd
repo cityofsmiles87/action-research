@@ -1,6 +1,6 @@
 ---
-title: "Effects of ``Math Hugot'' on Attitudes Toward Mathematics among Grade 10 Students of Sauyo High School, S.Y. 2020 -- 2021"
-shorttitle: "Effects of ``Math Hugot'' on ATM"
+title: "Effect of ``Math Hugot'' on Attitudes Toward Mathematics among Grade 10 Students of Sauyo High School, S.Y. 2020 -- 2021"
+shorttitle: "Effect of ``Math Hugot'' on ATM"
 
 author: 
   - name: "Jonathan R. Bacolod" 

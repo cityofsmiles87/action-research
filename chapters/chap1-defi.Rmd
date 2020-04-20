@@ -1,0 +1,15 @@
+For precise definition of words in this paper, the following terms are operationally and lexically defined:  
+
+
+(ref:defi-atmi) Attitudes toward Mathematics  is defined as... In this study, attitudes are measured using the Attitudes toward Mathematics Inventory (ATMI) by [@tap00]. 
+
+Hugot is a Filipino word which means "to draw deeply from emotions or experience" [@ver18] or "something that we pull out from our emotional insides" [@bay16]. In everyday speech, although a "hugot" is understood as a statement that is meant to pull out sentimental memories, it "eventually took on playful undertones as usage became more and more widespread... "  [@ver18]. This means that a "hugot" can elicit  nostalgic  emotions or humor depending on the person speaking. 
+
+Math Hugot is a statement relating a Mathematical concept to any human experience (e.g.,  relationships and daily life in general) so as to invoke sentimental memories or humor. 
+
+
+ 
+ 
+ 
+ 
+ 

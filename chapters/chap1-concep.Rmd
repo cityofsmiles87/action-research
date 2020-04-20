@@ -1,0 +1,16 @@
+The independent variable in this study is the application of "Math Hugot"  while the dependent variable is the attitudes   of the Grade 10 students  toward Mathematics. This study postulates that  the use of ``Math Hugot"  has a positive effect on the learners' attitudes toward Mathematics. This relationship is summarized in Figure ref fig:paradigm. 
+
+{r child = '/R-Markdown/thesis/chapters/chap1-concep-fig.Rmd'}
+
+
+
+Figure ref fig:paradigm shows the independent and dependent variables in this study. The effect of ``Math Hugot"  on the attitudes of the Grade 10 students toward Mathematics  is signified by the  arrow. 
+
+
+ 
+
+
+
+
+
+ 

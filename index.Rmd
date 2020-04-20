@@ -1,0 +1,26 @@
+---
+title: "THESIS"
+author: "Jonathan R. Bacolod "
+date: "Apr 03, 2019"
+output:
+    bookdown::word_document2:
+      fig_caption: true
+      reference_docx: "thesis-format.docx"
+      toc: true
+    
+---
+
+<!-- cd /host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/; 
+Rscript -e "rmarkdown::render('/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/index.Rmd',  'all', encoding = 'UTF-8')" -->
+
+# Chapter 1
+```{r child = '/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/chapters/chap1.Rmd'}
+```
+
+<em>\FloatBarrier</em> 
+
+##### <em>\newpage</em> 
+
+# Chapter 2
+```{r child = '/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/chapters/chap2.Rmd'}
+```

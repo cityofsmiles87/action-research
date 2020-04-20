@@ -1,0 +1,24 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics{hugot_files/paradigm-1.pdf}
+\caption{Paradigm of the Study}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics[width=0.65\textwidth,height=\textheight]{/R-Markdown/thesis/appendix/Attitudes-Toward-Mathematics-Inventory.pdf}
+\caption{Paradigm}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+
+{\centering \includegraphics[width=0.3\linewidth]{/R-Markdown/thesis/appendix/Attitudes-Toward-Mathematics-Inventory}
+
+}
+
+\caption{your caption}\label{fig:unnamed-chunk-7}
+\end{figure*}

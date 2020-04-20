@@ -1,0 +1,73 @@
+---
+title: "THESIS"
+author: "Jonathan R. Bacolod "
+date: "Apr 03, 2019"
+output:
+    bookdown::word_document2:
+      fig_caption: true
+---
+
+<!-- cd /host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/ -->
+
+<!-- R -e 'rmarkdown::render_site(output_format = 'bookdown::word_document2', encoding = 'UTF-8')' -->
+
+<!-- Rscript -e "rmarkdown::render('/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/index.Rmd',  'all', encoding = 'UTF-8')" -->
+
+<!-- Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::word_document2")' -->
+
+<!-- Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_document2")' -->
+
+nkw
+
+<!--chapter:end:index.Rmd-->
+
+---
+title: "thesis"
+output: 
+  word_document:
+    fig_caption: yes
+    reference_docx: "thesis-format.docx"
+  pdf_document: 
+    fig_caption: yes
+header-includes:
+  \usepackage{placeins} 
+  \usepackage{graphicx} 
+  \usepackage{tikz} 
+  \usetikzlibrary{arrows.meta}
+  \usetikzlibrary{shapes.arrows}
+  
+---
+
+<!-- Rscript -e "rmarkdown::render('/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/hugot.Rmd',  'all')" -->
+
+<!-- toc: true -->
+<!-- bibliography: '/host-rootfs/storage/emulated/0/Documents/documents/latex/atan-thesis/hugot.bib' -->
+
+<em>\FloatBarrier</em> 
+
+##### <em>\newpage</em> 
+
+# Chapter 1
+```{r child = '/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/chapters/chap1.Rmd'}
+```
+<em>\FloatBarrier</em> 
+
+##### <em>\newpage</em> 
+# Chapter 2
+```{r child = '/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/chapters/chap2.Rmd'}
+```
+
+<em>\FloatBarrier</em> 
+
+##### <em>\newpage</em> 
+
+```{r child = '/host-rootfs/storage/emulated/0/GNURoot/home/R-Markdown/thesis/chapters/chap3.Rmd'}
+```
+
+<em>\FloatBarrier</em> 
+
+##### <em>\newpage</em> 
+
+
+<!--chapter:end:hugot.Rmd-->
+

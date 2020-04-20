@@ -1,0 +1,90 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{nsu17}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a4c4b55807461910097f4cdd64e631be}{%
+           family={Nsubuga\bibnamedelima Kiwanuka},
+           familyi={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6b8e08ccce60f742c9647c41ba40fd94}{%
+           family={Van\bibnamedelima Damme},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=13c5578dbf8eb7697b2d012308f68ba9}{%
+           family={Van\bibnamedelimb Den\bibnamedelima Noortgate},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Wim},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9a014383e2e9ed6bead7491738550b24}{%
+           family={Nkafu\bibnamedelima Anumendem},
+           familyi={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Dickson},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a995d5b10027fe021e33b1c62472a84b}{%
+           family={Vanlaar},
+           familyi={V\bibinitperiod},
+           given={Gudrun},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d459dba394387bc1ad659870f419f40c}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Chandra},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d6453e6ebfd6155df42a430727e1acc9}{%
+           family={Namusisi},
+           familyi={N\bibinitperiod},
+           given={Speranza},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{153ebfad7aed6ebcc8ee5de38b2b212a}
+      \strng{fullhash}{8488f8d03bfc3f41bd2f95f380b87886}
+      \strng{bibnamehash}{153ebfad7aed6ebcc8ee5de38b2b212a}
+      \strng{authorbibnamehash}{153ebfad7aed6ebcc8ee5de38b2b212a}
+      \strng{authornamehash}{153ebfad7aed6ebcc8ee5de38b2b212a}
+      \strng{authorfullhash}{8488f8d03bfc3f41bd2f95f380b87886}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{School Effectiveness and School Improvement}
+      \field{number}{1}
+      \field{title}{How do student and classroom characteristics affect attitude toward mathematics? {A} multivariate multilevel analysis}
+      \field{volume}{28}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{doi}
+      \verb https://doi.org/10.1080/09243453.2016.1201123
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/09243453.2016.1201123?src=recsys
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/09243453.2016.1201123?src=recsys
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

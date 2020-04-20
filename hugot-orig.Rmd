@@ -1,0 +1,96 @@
+---
+documentclass: apa6
+classoption: man, donotrepeattitle, noextraspace
+title: '"Math Hugot": An Intervention for Improving Attitudes toward Mathematics Among Grade 10 Students of Sauyo High School, S.Y. 2020--2021' 
+author: "Mr. Jonathan R. Bacolod, LPT" 
+bibliography: hugot.bib
+csl: ref_format.csl 
+link-citations: yes
+output: 
+  pdf_document: 
+    citation_package: biblatex
+    fig_caption: yes 
+    keep_tex: true  
+    latex_engine: pdflatex
+    template: latex_template.tex
+    includes:
+       in_header: thesis-preamble.tex
+       before_body: before_body.tex
+       after_body: after_body.tex
+
+---
+
+
+<!-- setwd("/R-Markdown/"); library("rmarkdown"); render("hugot-action-res.Rmd", "pdf_document") --> 
+
+<!-- cp /data/data/com.termux/files/home/.atilo/fedora/R-Markdown/hugot-action-res.pdf /storage/emulated/0/GNURoot/home/R-Markdown/ && termux-open /storage/emulated/0/GNURoot/home/R-Markdown/hugot-action-res.pdf --> 
+
+<!-- cp /storage/emulated/0/GNURoot/home/R-Markdown/thesis/hugot-action-res.Rmd /data/data/com.termux/files/home/.atilo/fedora/R-Markdown/thesis && cp -r /storage/emulated/0/GNURoot/home/R-Markdown/thesis /data/data/com.termux/files/home/.atilo/fedora/R-Markdown/  --> 
+
+<!--Rscript -e 'setwd("/R-Markdown/thesis"); library("rmarkdown"); render("hugot-action-res.Rmd", "pdf_document")' --> 
+
+<!-- cp /data/data/com.termux/files/home/.atilo/fedora/R-Markdown/thesis/hugot-action-res.pdf /storage/emulated/0/GNURoot/home/R-Markdown/thesis && termux-open /storage/emulated/0/GNURoot/home/R-Markdown/thesis/hugot-action-res.pdf -->
+
+<!--Rscript -e 'setwd("/R-Markdown/thesis"); library("rmarkdown"); render("hugot-action-res.Rmd", "pdf_document"); bibtex hugot-action-res; pdflatex hugot-action-res.tex;  pdflatex hugot-action-res.tex' --> 
+
+<!-- cd /R-Markdown/thesis/ && biblatex hugot-action-res && pdflatex hugot-action-res.tex && pdflatex hugot-action-res.tex
+floatsintext
+-->
+
+```{r global_options, include=FALSE}
+## This saves you from having to do this for every chunk
+knitr::opts_chunk$set(fig.path = 'hugot_files/',
+                      echo = FALSE, 
+                      warning = FALSE, 
+                      message = FALSE)
+```
+ 
+```{r, setup, include=FALSE}
+# define pagebreak
+pagebreak <- function() {
+  if(knitr::is_latex_output())
+    return("\\newpage")
+  else
+    return('<div style="page-break-before: always;" />')}
+```
+ 
+```{=openxml}
+#pagebreak in word
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+`r pagebreak()`
+\tableofcontents
+
+`r pagebreak()`
+\listoftables
+
+`r pagebreak()`
+\listoffigures
+
+`r pagebreak()`
+# The Problem and Its Background 
+```{r child = '/R-Markdown/thesis/chapters/chap1.Rmd'}
+```
+
+`r pagebreak()`
+# Method
+```{r child = '/R-Markdown/thesis/chapters/chap3.Rmd'}
+```
+ 
+`r pagebreak()` 
+# References
+``` {r refmgr references, results="asis", echo=FALSE}
+```
+
+`r pagebreak()` 
+# Appendices
+<!-- {r, child = '/R-Markdown/thesis/chapters/appendix.Rmd'}
+-->
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+---
+bibliography: hugot.bib
+csl: ref_format.csl 
+link-citations: yes
+output:
+  pdf_document:
+    citation_package: biblatex
+    fig_caption: yes 
+    keep_tex: true  
+---
+
+\appendix
+\section{Appendix A}
+\label{app:atmi}
+```{r app:atmi, out.width="0.8\\linewidth", include=TRUE, fig.align="center", fig.cap=c("Attitudes Toward Mathematics Inventory"), echo=FALSE}
+knitr::include_graphics("/R-Markdown/thesis/appendix/Attitudes-Toward-Mathematics-Inventory.pdf")
+```
+

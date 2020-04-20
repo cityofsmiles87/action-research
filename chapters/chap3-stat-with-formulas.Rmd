@@ -1,0 +1,47 @@
+In order to achieve the goals of this study, the following statistical measures and tests  will be computed using R version `r getRversion()` installed in an Android smartphone. The level of statistical significance is set at 5%. 
+
+1.  Mean is "the sum of the values, divided by the total number of values" [@blu09]. The mean will be used to determine the average scores of the control group and experimental group in the pretest and post-test. The formula for the mean of ungrouped data is:
+\[
+\bar{x} = \displaystyle \frac{\Sigma x}{n} 
+\] 
+\begin{center} 
+\begin{tabular}{lcll}
+where: & $\bar{x}$ & = & mean of scores \\
+ & $\Sigma x $& = & sum of scores \\
+ & $n$ & = & number of students  who took the test \\
+\end{tabular} 
+\end{center} 
+
+2. z-test is "the test statistic for a difference between population means with $\sigma_1$ and $\sigma_2$ both 
+known" [@don13]. Aside from the population standard deviations being known, the following criteria should also be met when using the z-test:
+   a) the data values are measured in the interval or ratio scale;
+   b) the data values are approximately normally distributed; and,
+   c) the number of data values is greater than 30.
+
+In this study,  the z-test will be used to determine whether a significant difference exists in
+  a) the pretest and post-test scores  of the control group, 
+  b) the pretest and post-test scores  of the experimental group, and
+  c) the post-test scores  of the control group and experimental group. 
+
+
+The formula for the z-test of ungrouped data is:
+\[
+z= \displaystyle \frac{
+(\bar{x}_1 - \bar{x}_2) - (\mu_1 - \mu_2) 
+}
+{
+\sqrt{
+\displaystyle \frac{\sigma_1^2}{n_1} + \displaystyle \frac{\sigma_2^2}{n_2} }
+} 
+\] 
+\begin{center}
+\begin{tabular}{lcll}
+where: & $\bar{x}_1$ & = & mean of scores of the experimental group \\
+ & $\bar{x}_2$ & = & mean of scores of the control  group \\
+ & $\mu_1 - \mu_2 $& = & hypothesized difference of the population means\\
+ & $\sigma_1^2$ & = & variance  of scores of the experimental group\\
+ & $\sigma_2^2$ & = & variance  of scores of the control group\\
+ & $n_1$ & = & number of students in the experimental group who took the test \\
+ & $n_2$ & = & number of students in the control group who took the test \\
+\end{tabular} 
+\end{center} 

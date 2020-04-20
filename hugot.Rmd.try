@@ -1,0 +1,95 @@
+---
+documentclass: apa6
+classoption: man, donotrepeattitle
+title: '"Math Hugot": An Intervention for Improving Attitudes toward Mathematics Among Grade 10 Students of Sauyo High School, S.Y. 2020--2021' 
+author: "Mr. Jonathan R. Bacolod, LPT" 
+bibliography: hugot.bib
+csl: ref_format.csl
+output: 
+  word_document:
+    fig_caption: yes
+    reference_docx: "thesis-format.docx"
+  pdf_document: 
+    fig_caption: true
+    keep_tex: true  
+    latex_engine: pdflatex 
+    citation_package: biblatex
+    includes:
+       in_header: thesis-preamble.tex
+       before_body: before_body.tex
+---
+ 
+<!--  setwd("/R-Markdown/thesis"); library("rmarkdown"); render("hugot.Rmd",  "pdf_document") 
+-->   
+  
+<!--
+Rscript -e "setwd("/R-Markdown/thesis"); library("rmarkdown"); render("hugot.Rmd",  "pdf_document")"
+date: "`r Sys.Date()`" 
+before_body: before_body.tex
+after_body: after_body.tex
+template: latex_template.tex
+-->   
+ 
+```{r global_options, include=FALSE}
+## This saves you from having to do this for every chunk
+knitr::opts_chunk$set(fig.path = 'hugot_files/',
+                      echo = FALSE, 
+                      warning = FALSE, 
+                      message = FALSE)
+```
+
+```{r, setup, include=FALSE}
+# define pagebreak
+pagebreak <- function() {
+  if(knitr::is_latex_output())
+    return("\\newpage")
+  else
+    return('<div style="page-break-before: always;" />')}
+```
+ 
+```{=openxml}
+#pagebreak in word
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+
+`r pagebreak()`
+\tableofcontents
+
+`r pagebreak()`
+\listoftables
+
+`r pagebreak()`
+\listoffigures
+
+`r pagebreak()`
+# Chapter 1
+```{r child = '/R-Markdown/thesis/chapters/chap1.Rmd'}
+```
+
+`r pagebreak()`
+
+# Chapter 2
+## echos 
+```{r child = '/R-Markdown/thesis/chapters/chap2.Rmd'}
+```
+
+`r pagebreak()`
+# Chapter 3
+## rum
+```{r child = '/R-Markdown/thesis/chapters/chap3.Rmd'}
+```
+
+`r pagebreak()`
+# References
+<!-- {r refmgr references, results="asis", echo=FALSE}
+# PrintBibliography(bib) -->
+
+
+
+
+
+
+
+
+

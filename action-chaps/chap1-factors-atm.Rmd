@@ -1,5 +1,28 @@
-The following factors have an impact on attitudes toward Mathematics: 
+Many researchers have focused on determining the factors that have an impact on attitudes toward Mathematics. Some of these factors, such as gender, Mathematics anxiety, motivation, game preferences, grade level, extreme response style in test-taking, competence, enjoyment, perceived  relevance, mathematical thinking, race, and  prior mathematics achievement, can be categorized as components that are internal to the learner. The other elements, such as parental influences, teacher affective  support, classroom instruction, number type,classroom culture, teaching methods,school type, and risk-taking in class, are classified as factors that are external to the students. Among the internal constituents of attitudes toward Mathematics, gender is one of the most studied. 
 
+### Gender 
+students have a positive attitude toward mathematics. [@kar17; @mat12]  level  of attitudes  toward  mathematics  of  Grade  10  students  was  high [@jun19] 
+
+males’ average attitude score was significantly less than females’ average attitude scores [@rec18] female  students scoring higher than  male students in both constructs (enjoyment of mathematics and mathematical self-perceptions)  [@afa18] Girl students reported more positive mathematics attitudes compared to boys when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19]  Longitudinally, higher mathematical competence in sixth grade was associated with better mathematics attitudes in seventh grade for girls but not for boys. [@gea19] 
+
+There is no significant difference between male and female students in terms of their attitude toward mathematics  [@kar17; @sar17; @sir19; @orm19]   No gender effect was identified although the girls showed a continuous decline in attitudes the further they progressed in school. [@mat12] 
+
+<!-- 
+there was a significant main effect of gender on mean attitude scores. males’ average attitude score was significantly less than females’ average attitude scores.   [@rec18] 
+there was  a statistical significant  difference for gender in both constructs of the questionnaire, with female  students scoring higher than  male students in both constructs (enjoyment of mathematics and mathematical self-perceptions [@afa18] 
+Longitudinally, higher mathematical competence in sixth grade was associated with lower mathematics anxiety for evaluations and better mathematics attitudes in seventh grade for girls but not for boys. The key finding is that adolescent girls’ mathematics anxiety and their attitudes toward mathematics are more reflective of their actual mathematical competence than they are for boys.  [@gea19] 
+Girl students reported more positive mathematics attitudes compared to boys when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19] 
+
+students have a positive attitude toward mathematics. There is no significant difference between male and female students in terms of their attitude toward mathematics  [@kar17] 
+no significant gender differences in either achievement or attitudes toward mathematics, [@sar17] 
+As far as their genders are concerned, there are no differences between male and female students attitude toward mathematics.  [@sir19] 
+no statistically  significant mean  difference  between  attitude  towards  mathematics  and metacognitive  skill scores  of  girls  and boys [@orm19] 
+No gender effect was identified although the girls showed a continuous decline in attitudes the further they progressed in school. [@mat12] 
+
+
+ -->
+
+<!-- 
 ### gender 
 Conclusion: there was a significant main effect of gender on mean attitude scores. males’ average attitude score was significantly less than females’ average attitude scores.   [@rec18] 
 Problem: The purpose of this study was to investigate the relationship among seventh grade students’ mathematics self-efficacy, mathematics anx-iety, attitudes towards mathematics, mathematics achievement, gender and school type.
@@ -64,13 +87,6 @@ Method:
 Notes/comments: 
 Weakness/recommendation: 
 
-males’ average attitude score was significantly less than females’ average attitude scores [@rec18] female  students scoring higher than  male students in both constructs (enjoyment of mathematics and mathematical self-perceptions)  [@afa18] Girl students reported more positive mathematics attitudes compared to boys when they experienced higher levels of autonomy in their mathematics classes.  [@zuo19] 
-
-students have a positive attitude toward mathematics. [@kar17; @mat12]  level  of attitudes  toward  mathematics  of  Grade  10  students  was  high [@jun19] 
-
-Longitudinally, higher mathematical competence in sixth grade was associated with better mathematics attitudes in seventh grade for girls but not for boys. [@gea19] 
-
-There is no significant difference between male and female students in terms of their attitude toward mathematics  [@kar17; @sar17; @sir19; @orm19]   No gender effect was identified although the girls showed a continuous decline in attitudes the further they progressed in school. [@mat12] 
 
 
 Conclusion: 
@@ -390,23 +406,4 @@ Higher prior mathematics achievement was significant predictor of higher scores 
 
 moderately  positive  relationship  was  found  between  the  students'  previous  year-end mathematics  scores  and their  attitude  towards  mathematics   [@orm19] 
 
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
-
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
-
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
+ -->

@@ -1,0 +1,5 @@
+
+```{r atmi, out.width="0.8\\linewidth", include=TRUE, fig.align="center", fig.cap=c("Attitudes Toward Mathematics Inventory, used with permission"), echo=FALSE}
+knitr::include_graphics("/R-Markdown/thesis/appendix/Attitudes-Toward-Mathematics-Inventory.pdf")
+```
+

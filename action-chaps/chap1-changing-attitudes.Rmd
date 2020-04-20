@@ -1,5 +1,6 @@
 The following interventions were applied in order to improve the students' attitudes toward Mathematics: 
 
+<!-- 
 ### interactive multimedia learning package  
 Conclusion: teaching through the interactive multimedia learning package develops students' attitude towards mathematics. [@mut16] 
 Problem: The present study has been designed to investigate the effectiveness of an interactive multimedia learning package in developing attitude towards Mathematics. 
@@ -196,38 +197,4 @@ Method: pretest-posttest control group design
 Notes/comments: 
 Weakness/recommendation: 
 
-### 
-Conclusion:  [@mek18] 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
-
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
-
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
-
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
-
-Conclusion: 
-Problem: 
-Participants: 
-Method: 
-Notes/comments: 
-Weakness/recommendation: 
+ -->

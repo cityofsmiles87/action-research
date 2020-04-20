@@ -1,0 +1,17 @@
+We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson  Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
+
+## Participants 
+```{r child = '/R-Markdown/thesis/chapters/chap3-respo.Rmd'}
+```
+
+## Materials 
+```{r child = '/R-Markdown/thesis/chapters/chap3-instru.Rmd'}
+```
+
+## Procedure
+```{r child = '/R-Markdown/thesis/chapters/chap3-gather.Rmd'}
+```
+
+## Statistical Analysis 
+```{r child = '/R-Markdown/thesis/chapters/chap3-stat.Rmd'}
+```

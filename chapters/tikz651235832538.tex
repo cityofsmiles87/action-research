@@ -1,0 +1,36 @@
+\documentclass{article}
+\include{preview}
+\usepackage[pdftex,active,tightpage]{preview}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\begin{document}
+\begin{preview}
+%% TIKZ_CODE %%
+
+\begin{figure}[h]
+\begin{center}
+\noindent\begin{minipage}{0.5\textwidth}
+\begin{flushleft}
+
+\begin{tikzpicture}
+
+\draw[thick] (0,0) rectangle (3,2);
+
+\node (Math Hugot) at (1.5,1) {Math Hugot};
+
+\node[single arrow, draw, single arrow tip angle=90] (arrow) at (4.38,1) {\phantom{irmnbb}};
+
+
+\draw[thick, xshift=6cm] (0,0) rectangle (3,2);
+
+\node[xshift=6cm, align=center] (atm) at (1.5,1) {Attitudes \\toward\\Mathematics };
+
+\end{tikzpicture}
+\caption{Paradigm of the Study \label{fig:paradigm}}
+\end{flushleft}
+\end{minipage}
+\end{center}  
+\end{figure}
+\end{preview}
+\end{document}

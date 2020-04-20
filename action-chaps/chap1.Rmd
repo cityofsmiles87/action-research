@@ -4,16 +4,10 @@ Low performance in Mathematics is a prevalent problem among high school students
 
 [^1]: The NAT scores are interpreted in the following manner: 'very low mastery' refers to MPS of 35 and below; 'low mastery', 36 to 65; 'average mastery', 66 to 85; 'moving towards mastery', 86 to 95; and 'mastered', 96 to 100 [@alb19]. 
 
-Given the low competence of our high school students in national and international examinations, it is necessary to determine all the factors that contribute to more positive achievement outcomes in Mathematics. One such factor is attitude. Many researchers have discovered that attitudes toward Mathematics (ATM) predict math achievement [@dem19; @lip16; @pet19]. 
+Given the low competence of our high school students in national and international examinations, it is necessary to determine the factors that contribute to more positive achievement outcomes in Mathematics. One such factor is attitude. 
    
 <!-- First  address the  problem!  State the overall area of concern (populations-at-risk for injustice or  discrimination; need for more functional affiliations for individuals and groups; unethical policies/practices; lack of knowledge in  the field, etc.). -->
 
-Attitudes toward math (ATM) predict math achievement. [@dem19; @lip16; @pet19]  students with very positive or moderately positive levels of attitude performed better in comparison with students having negative attitudes toward mathematics [@saa19]
-no  significant  relationship  of  attitudes  toward mathematics  with  mathematics  achievement [@jun19]
- students with different degrees of positive and negative attitudes toward mathematics showed meaningful differences in choosing the strategies and being aware of evaluating their solutions.[@saa19] 
- 
-Attitudes toward Mathematics have been found to affect performance 
- 
 
 <!--  Arouse the  reader’s interest; tell the reader what to expect in the rest of your paper.  Provide  brief statistics to indicate the incidence of the problem.  -->
 
@@ -49,7 +43,6 @@ Grade 10 MPS
  -->
 
 
-Grade 10 takers were steady at the “low mastery” range [@alb19] 
 
 <!-- 
 The country is  second-lowest in mathematics with 353 points in the  2018 Programme for International Student Assessment (Pisa) Survey. It is below the 489 point-average for mathematics. the Pisa 2018 tested around 600,000 15-year-old students from a total of 79 countries and economies that  participated. [@lle19] PISA results revealed that the Philippines scored below the average of participating OECD (Organization for Economic Co-operation and Development) countries. These figures also reflect the learners' performance in the National Achievement Test,[@cat19]  -->
@@ -63,37 +56,31 @@ The country is  second-lowest in mathematics with 353 points in the  2018 Progra
 
 <!-- Make sure it is clear to the reader how information is related to your experimental hypotheses or procedure. So, if you are using their method, then talk about their method;  if they found similar results, talk about their results; if they operationally defined their DV like you want to, then  talk about that, etc. To make this section of your paper effective, you should explicitly relate information from  various sources to each other and to your proposed research. After you discuss past research, you should make it clear how your study is the next  logical one, that  your study improves upon past studies, that your study fills obvious holes left by the others. The researchers supply background information by  discussing past  research on  the  topic. The researchers explain  how their  study will  add  to past  research on  the  topic -->
 
-This research proposal attempts to determine the effectiveness of ``Math Hugot'' as an intervention for improving the attitudes toward Mathematics among the Grade 10 students of Sauyo High School. The main questions to be  explored are: (1) What is the mean 
 
 
-
-
-
-
-
-## The Concept and Phenomenon of ``Math Hugot''
-```{r child = './chap1-hugot-concept.Rmd'}
-``` 
- 
-## Changing Attitudes
-```{r child = './chap1-changing-attitudes.Rmd'}
+## Attitudes toward Mathematics and their Effects
+```{r child = './chap1-atm-effects.Rmd'}
 ``` 
 
 ## Factors Affecting Attitudes toward Mathematics
 ```{r child = './chap1-factors-atm.Rmd'}
 ``` 
 
-## Attitudes toward Mathematics and their Effects
-```{r child = './chap1-atm-effects.Rmd'}
+## Changing Attitudes
+```{r child = './chap1-changing-attitudes.Rmd'}
 ``` 
 
 ## Limitations of These Studies
 ```{r child = './chap1-limitations.Rmd'}
 ``` 
 
-In the closing two – three paragraph of the  introduction, establish  the need for future study related to this topic.  That is, why did you decide to review this topic?   What did your review of literature tell you (summary)?    What  do we need to study next to advance knowledge in this area?   
-
-After you present what is already known,  make your case for your  research either answering a new question, getting  a new answer to an old question, answering a question about a new population, etc. After you have made your case that your research is going to give new information, you will summarize the major points.   Remember that the Introduction discusses the problem.  The review of literature should concentrate on solutions  (those that exist, those that are still required).  Finally, you will formulate (in the last  sentence) your research question or your hypothesis.
-
-
+## The Concept and Phenomenon of ``Math Hugot''
+```{r child = './chap1-hugot-concept.Rmd'}
+``` 
  
+<!-- In the closing two – three paragraph of the  introduction, establish  the need for future study related to this topic.  That is, why did you decide to review this topic?   What did your review of literature tell you (summary)?    What  do we need to study next to advance knowledge in this area?   
+
+After you present what is already known,  make your case for your  research either answering a new question, getting  a new answer to an old question, answering a question about a new population, etc. After you have made your case that your research is going to give new information, you will summarize the major points.   Remember that the Introduction discusses the problem.  The review of literature should concentrate on solutions  (those that exist, those that are still required).  Finally, you will formulate (in the last  sentence) your research question or your hypothesis. -->
+
+
+This research proposal attempts to determine the effectiveness of ``Math Hugot'' as an intervention for improving the attitudes toward Mathematics among the Grade 10 students of Sauyo High School. The main questions to be  explored are: (1) What is the mean 

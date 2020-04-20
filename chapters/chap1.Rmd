@@ -1,0 +1,34 @@
+
+```{r child = '/R-Markdown/thesis/chapters/chap1-intro.Rmd'}
+```
+
+## Theoretical Framework 
+```{r child = '/R-Markdown/thesis/chapters/chap1-theo.Rmd'}
+```
+
+## Conceptual Framework 
+```{r child = '/R-Markdown/thesis/chapters/chap1-concep.Rmd'}
+```
+
+## Statement of the Problem
+```{r child = '/R-Markdown/thesis/chapters/chap1-sop.Rmd'}
+```
+
+## Hypotheses of the Study
+```{r child = '/R-Markdown/thesis/chapters/chap1-hypo.Rmd'}
+```
+
+## Significance of the Study
+```{r child = '/R-Markdown/thesis/chapters/chap1-signi.Rmd'}
+```
+
+## Definition of Terms
+```{r child = '/R-Markdown/thesis/chapters/chap1-defi.Rmd'}
+```
+
+## Scope and Delimitation
+```{r child = '/R-Markdown/thesis/chapters/chap1-scope.Rmd'}
+```
+
+
+
